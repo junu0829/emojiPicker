@@ -1,0 +1,3086 @@
+[
+	{
+		"emoji": "👋",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "손 흔드는",
+		"slug": "waving_hand",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🤚",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "손등을 올렸다",
+		"slug": "raised_back_of_hand",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🖐️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "손가락을 벌린 손",
+		"slug": "hand_with_fingers_splayed",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "✋",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "제기 손",
+		"slug": "raised_hand",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🖖",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "화산 건강",
+		"slug": "vulcan_salute",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "👌",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "확인 손",
+		"slug": "ok_hand",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🤌",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "꼬집은 손가락",
+		"slug": "pinched_fingers",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🤏",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "꼬집는 손",
+		"slug": "pinching_hand",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "✌️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "승리의 손",
+		"slug": "victory_hand",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🤞",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "교차 손가락",
+		"slug": "crossed_fingers",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤟",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "사랑하는 몸짓",
+		"slug": "love_you_gesture",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🤘",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "뿔의 표시",
+		"slug": "sign_of_the_horns",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🤙",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "손을 불러",
+		"slug": "call_me_hand",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "👈",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "왼쪽을 가리키는 백핸드 인덱스",
+		"slug": "backhand_index_pointing_left",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👉",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "오른쪽을 가리키는 백핸드 인덱스",
+		"slug": "backhand_index_pointing_right",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👆",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "위로 가리키는 백핸드 인덱스",
+		"slug": "backhand_index_pointing_up",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🖕",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "가운데 손가락",
+		"slug": "middle_finger",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "👇",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "아래를 가리키는 백핸드 인덱스",
+		"slug": "backhand_index_pointing_down",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "☝️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "가리키는 인덱스",
+		"slug": "index_pointing_up",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👍",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "엄지손가락",
+		"slug": "thumbs_up",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👎",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "엄지 손가락",
+		"slug": "thumbs_down",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "✊",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "제기 주먹",
+		"slug": "raised_fist",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👊",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "다가오는 주먹",
+		"slug": "oncoming_fist",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🤛",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "왼쪽 주먹",
+		"slug": "left_facing_fist",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤜",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "오른쪽을 향한 주먹",
+		"slug": "right_facing_fist",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "👏",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "박수",
+		"slug": "clapping_hands",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🙌",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "손을 들고",
+		"slug": "raising_hands",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👐",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "열린 손",
+		"slug": "open_hands",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🤲",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "함께 손바닥",
+		"slug": "palms_up_together",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🤝",
+		"skin_tone_support": false,
+		"name": "악수",
+		"slug": "handshake",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🙏",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "접힌 손",
+		"slug": "folded_hands",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "✍️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "쓰는 손",
+		"slug": "writing_hand",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "💅",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "매니큐어",
+		"slug": "nail_polish",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🤳",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "셀카",
+		"slug": "selfie",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "💪",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "굴곡된 이두근",
+		"slug": "flexed_biceps",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🦾",
+		"skin_tone_support": false,
+		"name": "기계 팔",
+		"slug": "mechanical_arm",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🦿",
+		"skin_tone_support": false,
+		"name": "기계 다리",
+		"slug": "mechanical_leg",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🦵",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "다리",
+		"slug": "leg",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🦶",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "발",
+		"slug": "foot",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "👂",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "귀",
+		"slug": "ear",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🦻",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "보청기가 있는 귀",
+		"slug": "ear_with_hearing_aid",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "👃",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "코",
+		"slug": "nose",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧠",
+		"skin_tone_support": false,
+		"name": "뇌",
+		"slug": "brain",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🫀",
+		"skin_tone_support": false,
+		"name": "해부학적 심장",
+		"slug": "anatomical_heart",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🫁",
+		"skin_tone_support": false,
+		"name": "폐",
+		"slug": "lungs",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🦷",
+		"skin_tone_support": false,
+		"name": "이빨",
+		"slug": "tooth",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🦴",
+		"skin_tone_support": false,
+		"name": "뼈",
+		"slug": "bone",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "👀",
+		"skin_tone_support": false,
+		"name": "눈",
+		"slug": "eyes",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👁️",
+		"skin_tone_support": false,
+		"name": "눈",
+		"slug": "eye",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "👅",
+		"skin_tone_support": false,
+		"name": "혀",
+		"slug": "tongue",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👄",
+		"skin_tone_support": false,
+		"name": "입",
+		"slug": "mouth",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👶",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "아기",
+		"slug": "baby",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧒",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "아이",
+		"slug": "child",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "👦",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "소년",
+		"slug": "boy",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👧",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "여자",
+		"slug": "girl",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧑",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "사람",
+		"slug": "person",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "👱",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "금발 머리",
+		"slug": "person_blond_hair",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👨",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "남성",
+		"slug": "man",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧔",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "사람 수염",
+		"slug": "person_beard",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧔‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "남자 수염",
+		"slug": "man_beard",
+		"unicode_version": "13.1",
+		"emoji_version": "13.1"
+	},
+	{
+		"emoji": "🧔‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "여자 수염",
+		"slug": "woman_beard",
+		"unicode_version": "13.1",
+		"emoji_version": "13.1"
+	},
+	{
+		"emoji": "👨‍🦰",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "남자 빨간 머리",
+		"slug": "man_red_hair",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "👨‍🦱",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "남자 곱슬 머리",
+		"slug": "man_curly_hair",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "👨‍🦳",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "남자 흰머리",
+		"slug": "man_white_hair",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "👨‍🦲",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "곧 하나",
+		"slug": "man_bald",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "👩",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "여성",
+		"slug": "woman",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👩‍🦰",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "여자 빨간 머리",
+		"slug": "woman_red_hair",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🧑‍🦰",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "빨간 머리",
+		"slug": "person_red_hair",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👩‍🦱",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "여자 곱슬 머리",
+		"slug": "woman_curly_hair",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🧑‍🦱",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "곱슬머리",
+		"slug": "person_curly_hair",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👩‍🦳",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "여자 흰 머리",
+		"slug": "woman_white_hair",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🧑‍🦳",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "흰머리",
+		"slug": "person_white_hair",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👩‍🦲",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "여자 대머리",
+		"slug": "woman_bald",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🧑‍🦲",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "곧 사람",
+		"slug": "person_bald",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👱‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 금발 머리",
+		"slug": "woman_blond_hair",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👱‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 금발 머리",
+		"slug": "man_blond_hair",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧓",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "나이든 사람",
+		"slug": "older_person",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "👴",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "노인",
+		"slug": "old_man",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👵",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "늙은 여자",
+		"slug": "old_woman",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🙍",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "인상을 찌푸린 사람",
+		"slug": "person_frowning",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🙍‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "인상을 찌푸린 남자",
+		"slug": "man_frowning",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙍‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "찡그린 여자",
+		"slug": "woman_frowning",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙎",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "사람이 삐",
+		"slug": "person_pouting",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🙎‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 삐",
+		"slug": "man_pouting",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙎‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 삐",
+		"slug": "woman_pouting",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙅",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "아니오 몸짓하는 사람",
+		"slug": "person_gesturing_no",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🙅‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "아니오 몸짓 남자",
+		"slug": "man_gesturing_no",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙅‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "아니오 몸짓 여자",
+		"slug": "woman_gesturing_no",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙆",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "확인 제스처를 취하는 사람",
+		"slug": "person_gesturing_ok",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🙆‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "확인 제스처를 취하는 남자",
+		"slug": "man_gesturing_ok",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙆‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "OK 몸짓을 하는 여성",
+		"slug": "woman_gesturing_ok",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "💁",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "손을 흔드는 사람",
+		"slug": "person_tipping_hand",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💁‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "손을 흔드는 남자",
+		"slug": "man_tipping_hand",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "💁‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "손을 흔드는 여자",
+		"slug": "woman_tipping_hand",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙋",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "손을 드는 사람",
+		"slug": "person_raising_hand",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🙋‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "손을 올리는 남자",
+		"slug": "man_raising_hand",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙋‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "손을 올리는 여자",
+		"slug": "woman_raising_hand",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧏",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "청각 장애인",
+		"slug": "deaf_person",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧏‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "귀머거리",
+		"slug": "deaf_man",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧏‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "청각 장애인",
+		"slug": "deaf_woman",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🙇",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "절하는 사람",
+		"slug": "person_bowing",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🙇‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "절하는 남자",
+		"slug": "man_bowing",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🙇‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "절하는 여자",
+		"slug": "woman_bowing",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤦",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "얼굴을 만지는 사람",
+		"slug": "person_facepalming",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤦‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "얼굴을 만지는 남자",
+		"slug": "man_facepalming",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤦‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "얼굴을 만지는 여자",
+		"slug": "woman_facepalming",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤷",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "어깨를 으쓱하는 사람",
+		"slug": "person_shrugging",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤷‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "어깨를 으쓱하는 남자",
+		"slug": "man_shrugging",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤷‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "어깨를 으쓱하는 여자",
+		"slug": "woman_shrugging",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍⚕️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "의료 종사자",
+		"slug": "health_worker",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍⚕️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 건강 노동자",
+		"slug": "man_health_worker",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍⚕️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 의료 종사자",
+		"slug": "woman_health_worker",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🎓",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "학생",
+		"slug": "student",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🎓",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남학생",
+		"slug": "man_student",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🎓",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여학생",
+		"slug": "woman_student",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🏫",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "선생님",
+		"slug": "teacher",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🏫",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 선생님",
+		"slug": "man_teacher",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🏫",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 선생님",
+		"slug": "woman_teacher",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍⚖️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "판사",
+		"slug": "judge",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍⚖️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 판사",
+		"slug": "man_judge",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍⚖️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 판사",
+		"slug": "woman_judge",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🌾",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "농장주",
+		"slug": "farmer",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🌾",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 농부",
+		"slug": "man_farmer",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🌾",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 농부",
+		"slug": "woman_farmer",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🍳",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "요리하다",
+		"slug": "cook",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🍳",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 요리사",
+		"slug": "man_cook",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🍳",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 요리사",
+		"slug": "woman_cook",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🔧",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "정비공",
+		"slug": "mechanic",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🔧",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 정비사",
+		"slug": "man_mechanic",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🔧",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 정비사",
+		"slug": "woman_mechanic",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🏭",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "공장 노동자",
+		"slug": "factory_worker",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🏭",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 공장 노동자",
+		"slug": "man_factory_worker",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🏭",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 공장 노동자",
+		"slug": "woman_factory_worker",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍💼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "회사원",
+		"slug": "office_worker",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍💼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 회사원",
+		"slug": "man_office_worker",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍💼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 회사원",
+		"slug": "woman_office_worker",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🔬",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "과학자",
+		"slug": "scientist",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🔬",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 과학자",
+		"slug": "man_scientist",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🔬",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 과학자",
+		"slug": "woman_scientist",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍💻",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "과학 기술자",
+		"slug": "technologist",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍💻",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 기술자",
+		"slug": "man_technologist",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍💻",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 기술자",
+		"slug": "woman_technologist",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🎤",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "가수",
+		"slug": "singer",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🎤",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 가수",
+		"slug": "man_singer",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🎤",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 가수",
+		"slug": "woman_singer",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🎨",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "아티스트",
+		"slug": "artist",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🎨",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 예술가",
+		"slug": "man_artist",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🎨",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 예술가",
+		"slug": "woman_artist",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍✈️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "조종사",
+		"slug": "pilot",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍✈️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 조종사",
+		"slug": "man_pilot",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍✈️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 조종사",
+		"slug": "woman_pilot",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🚀",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "우주 비행사",
+		"slug": "astronaut",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🚀",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 우주 비행사",
+		"slug": "man_astronaut",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🚀",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 우주 비행사",
+		"slug": "woman_astronaut",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧑‍🚒",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "소방관",
+		"slug": "firefighter",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🚒",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 소방관",
+		"slug": "man_firefighter",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍🚒",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 소방관",
+		"slug": "woman_firefighter",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👮",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "경찰관",
+		"slug": "police_officer",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👮‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 경찰",
+		"slug": "man_police_officer",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👮‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 경찰관",
+		"slug": "woman_police_officer",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🕵️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "2.0",
+		"name": "형사",
+		"slug": "detective",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕵️‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 탐정",
+		"slug": "man_detective",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🕵️‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 탐정",
+		"slug": "woman_detective",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "💂",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "경비원",
+		"slug": "guard",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💂‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "맨 가드",
+		"slug": "man_guard",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "💂‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 경비원",
+		"slug": "woman_guard",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🥷",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "닌자",
+		"slug": "ninja",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "👷",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "건설 노동자",
+		"slug": "construction_worker",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👷‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 건설 노동자",
+		"slug": "man_construction_worker",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👷‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 건설 노동자",
+		"slug": "woman_construction_worker",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤴",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "왕자",
+		"slug": "prince",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "👸",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "공주님",
+		"slug": "princess",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👳",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "터번을 쓴 사람",
+		"slug": "person_wearing_turban",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👳‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "터번을 쓴 남자",
+		"slug": "man_wearing_turban",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👳‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "터번을 두른 여자",
+		"slug": "woman_wearing_turban",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👲",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "해골 모자를 쓴 사람",
+		"slug": "person_with_skullcap",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧕",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "머리 스카프를 두른 여자",
+		"slug": "woman_with_headscarf",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🤵",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "턱시도를 입은 사람",
+		"slug": "person_in_tuxedo",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤵‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "턱시도를 입은 남자",
+		"slug": "man_in_tuxedo",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🤵‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "턱시도를 입은 여자",
+		"slug": "woman_in_tuxedo",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "👰",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "베일을 쓴 사람",
+		"slug": "person_with_veil",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👰‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "베일을 쓴 남자",
+		"slug": "man_with_veil",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "👰‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "베일을 쓴 여자",
+		"slug": "woman_with_veil",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🤰",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "임산부",
+		"slug": "pregnant_woman",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤱",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "모유 수유",
+		"slug": "breast_feeding",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "👩‍🍼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "아기에게 먹이를 주는 여자",
+		"slug": "woman_feeding_baby",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "👨‍🍼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "아기에게 먹이를 주는 남자",
+		"slug": "man_feeding_baby",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🧑‍🍼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "아기에게 먹이를 주는 사람",
+		"slug": "person_feeding_baby",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "👼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "아기 천사",
+		"slug": "baby_angel",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎅",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "산타 클로스",
+		"slug": "santa_claus",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🤶",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "클로스 부인",
+		"slug": "mrs_claus",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🧑‍🎄",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.0",
+		"name": "MX 클로스",
+		"slug": "mx_claus",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🦸",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "슈퍼 히어로",
+		"slug": "superhero",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🦸‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "남자 슈퍼 히어로",
+		"slug": "man_superhero",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🦸‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "여자 슈퍼 히어로",
+		"slug": "woman_superhero",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🦹",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "슈퍼악당",
+		"slug": "supervillain",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🦹‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "남자 슈퍼 악당",
+		"slug": "man_supervillain",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🦹‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "11.0",
+		"name": "여자 슈퍼악당",
+		"slug": "woman_supervillain",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🧙",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "마술사",
+		"slug": "mage",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧙‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "남자 마법사",
+		"slug": "man_mage",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧙‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "여자 마법사",
+		"slug": "woman_mage",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧚",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "요정",
+		"slug": "fairy",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧚‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "남자 요정",
+		"slug": "man_fairy",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧚‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "여자 요정",
+		"slug": "woman_fairy",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧛",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "흡혈귀",
+		"slug": "vampire",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧛‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "남자 뱀파이어",
+		"slug": "man_vampire",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧛‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "여자 뱀파이어",
+		"slug": "woman_vampire",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧜",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "인어",
+		"slug": "merperson",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧜‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "인어",
+		"slug": "merman",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧜‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "인어",
+		"slug": "mermaid",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧝",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "꼬마 요정",
+		"slug": "elf",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧝‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "맨 엘프",
+		"slug": "man_elf",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧝‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "여자 엘프",
+		"slug": "woman_elf",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧞",
+		"skin_tone_support": false,
+		"name": "요정",
+		"slug": "genie",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧞‍♂️",
+		"skin_tone_support": false,
+		"name": "한 천재",
+		"slug": "man_genie",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧞‍♀️",
+		"skin_tone_support": false,
+		"name": "여자 지니",
+		"slug": "woman_genie",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧟",
+		"skin_tone_support": false,
+		"name": "좀비",
+		"slug": "zombie",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧟‍♂️",
+		"skin_tone_support": false,
+		"name": "남자 좀비",
+		"slug": "man_zombie",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧟‍♀️",
+		"skin_tone_support": false,
+		"name": "여자 좀비",
+		"slug": "woman_zombie",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "💆",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "마사지 받는 사람",
+		"slug": "person_getting_massage",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💆‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "마사지 받는 남자",
+		"slug": "man_getting_massage",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "💆‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "마사지 받는 여자",
+		"slug": "woman_getting_massage",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "💇",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "머리를 자르는 사람",
+		"slug": "person_getting_haircut",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💇‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "머리를 자르는 남자",
+		"slug": "man_getting_haircut",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "💇‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "머리를 자르는 여자",
+		"slug": "woman_getting_haircut",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🚶",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "걷는 사람",
+		"slug": "person_walking",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚶‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "걷는 남자",
+		"slug": "man_walking",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🚶‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "걷는 여자",
+		"slug": "woman_walking",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧍",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "서있는 사람",
+		"slug": "person_standing",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧍‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "서있는 남자",
+		"slug": "man_standing",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧍‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "서있는 여자",
+		"slug": "woman_standing",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧎",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "무릎을 꿇고 있는 사람",
+		"slug": "person_kneeling",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧎‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "무릎을 꿇고있는 남자",
+		"slug": "man_kneeling",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧎‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "무릎을 꿇고 있는 여자",
+		"slug": "woman_kneeling",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧑‍🦯",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "흰 지팡이를 든 사람",
+		"slug": "person_with_white_cane",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🦯",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "흰 지팡이를 든 남자",
+		"slug": "man_with_white_cane",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "👩‍🦯",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "흰 지팡이를 든 여자",
+		"slug": "woman_with_white_cane",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧑‍🦼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "전동 휠체어를 탄 사람",
+		"slug": "person_in_motorized_wheelchair",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🦼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "전동 휠체어를 탄 남자",
+		"slug": "man_in_motorized_wheelchair",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "👩‍🦼",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "전동 휠체어를 탄 여성",
+		"slug": "woman_in_motorized_wheelchair",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧑‍🦽",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.1",
+		"name": "수동 휠체어를 탄 사람",
+		"slug": "person_in_manual_wheelchair",
+		"unicode_version": "12.1",
+		"emoji_version": "12.1"
+	},
+	{
+		"emoji": "👨‍🦽",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "수동 휠체어에 남자",
+		"slug": "man_in_manual_wheelchair",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "👩‍🦽",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "수동 휠체어에 여자",
+		"slug": "woman_in_manual_wheelchair",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🏃",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "달리는 사람",
+		"slug": "person_running",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏃‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "달리는 남자",
+		"slug": "man_running",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🏃‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "달리는 여자",
+		"slug": "woman_running",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "💃",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "춤추는 여자",
+		"slug": "woman_dancing",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕺",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "춤추는 남자",
+		"slug": "man_dancing",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🕴️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "공중에 뜨는 정장을 입은 사람",
+		"slug": "person_in_suit_levitating",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "👯",
+		"skin_tone_support": false,
+		"name": "토끼 귀를 가진 사람들",
+		"slug": "people_with_bunny_ears",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👯‍♂️",
+		"skin_tone_support": false,
+		"name": "토끼 귀를 가진 남자",
+		"slug": "men_with_bunny_ears",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👯‍♀️",
+		"skin_tone_support": false,
+		"name": "토끼 귀를 가진 여성",
+		"slug": "women_with_bunny_ears",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧖",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "김이 나는 방에 있는 사람",
+		"slug": "person_in_steamy_room",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧖‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "증기 방에 남자",
+		"slug": "man_in_steamy_room",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧖‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "증기 방에 여자",
+		"slug": "woman_in_steamy_room",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧗",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "등산하는 사람",
+		"slug": "person_climbing",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧗‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "등산하는 남자",
+		"slug": "man_climbing",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧗‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "등반하는 여자",
+		"slug": "woman_climbing",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🤺",
+		"skin_tone_support": false,
+		"name": "펜싱",
+		"slug": "person_fencing",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🏇",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "경마",
+		"slug": "horse_racing",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "⛷️",
+		"skin_tone_support": false,
+		"name": "스키 타는 사람",
+		"slug": "skier",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏂",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "스노보더",
+		"slug": "snowboarder",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏌️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "골프를 치는 사람",
+		"slug": "person_golfing",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏌️‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 골프",
+		"slug": "man_golfing",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🏌️‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 골프",
+		"slug": "woman_golfing",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🏄",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "서핑하는 사람",
+		"slug": "person_surfing",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏄‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "서핑하는 남자",
+		"slug": "man_surfing",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🏄‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "서핑하는 여자",
+		"slug": "woman_surfing",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🚣",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "노를 젓는 사람",
+		"slug": "person_rowing_boat",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚣‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 노 젓는 배",
+		"slug": "man_rowing_boat",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🚣‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "노를 젓는 여자",
+		"slug": "woman_rowing_boat",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🏊",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "수영하는 사람",
+		"slug": "person_swimming",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏊‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "수영하는 남자",
+		"slug": "man_swimming",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🏊‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "수영하는 여자",
+		"slug": "woman_swimming",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "⛹️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "2.0",
+		"name": "튀는 공",
+		"slug": "person_bouncing_ball",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⛹️‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 튀는 공",
+		"slug": "man_bouncing_ball",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "⛹️‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 튀는 공",
+		"slug": "woman_bouncing_ball",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🏋️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "2.0",
+		"name": "역기를 드는 사람",
+		"slug": "person_lifting_weights",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏋️‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "역기를 드는 남자",
+		"slug": "man_lifting_weights",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🏋️‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "역기를 드는 여자",
+		"slug": "woman_lifting_weights",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🚴",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "자전거를 타는 사람",
+		"slug": "person_biking",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚴‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 자전거",
+		"slug": "man_biking",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🚴‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여자 자전거",
+		"slug": "woman_biking",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🚵",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "산악 자전거",
+		"slug": "person_mountain_biking",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚵‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "남자 산악 자전거",
+		"slug": "man_mountain_biking",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🚵‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "여성 산악 자전거",
+		"slug": "woman_mountain_biking",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤸",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "수레바퀴 돌다",
+		"slug": "person_cartwheeling",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤸‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "수레를 몰고 다니는 남자",
+		"slug": "man_cartwheeling",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤸‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "수레를 몰고 다니는 여자",
+		"slug": "woman_cartwheeling",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤼",
+		"skin_tone_support": false,
+		"name": "사람들이 레슬링",
+		"slug": "people_wrestling",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤼‍♂️",
+		"skin_tone_support": false,
+		"name": "하지만 레슬링",
+		"slug": "men_wrestling",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤼‍♀️",
+		"skin_tone_support": false,
+		"name": "여자 레슬링",
+		"slug": "women_wrestling",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤽",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "수구를 하는 사람",
+		"slug": "person_playing_water_polo",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤽‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "수구를 하는 남자",
+		"slug": "man_playing_water_polo",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤽‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "수구를 하는 여자",
+		"slug": "woman_playing_water_polo",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤾",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "핸드볼을 하는 사람",
+		"slug": "person_playing_handball",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤾‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "핸드볼을 하는 남자",
+		"slug": "man_playing_handball",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤾‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "핸드볼을 하는 여자",
+		"slug": "woman_playing_handball",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤹",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "3.0",
+		"name": "저글링하는 사람",
+		"slug": "person_juggling",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🤹‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "저글링하는 남자",
+		"slug": "man_juggling",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🤹‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "저글링 여자",
+		"slug": "woman_juggling",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🧘",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "연꽃 위치에 있는 사람",
+		"slug": "person_in_lotus_position",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧘‍♂️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "연꽃 위치에 있는 남자",
+		"slug": "man_in_lotus_position",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧘‍♀️",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "5.0",
+		"name": "연꽃 위치에 있는 여자",
+		"slug": "woman_in_lotus_position",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🛀",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "1.0",
+		"name": "목욕하는 사람",
+		"slug": "person_taking_bath",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛌",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "4.0",
+		"name": "침대에있는 사람",
+		"slug": "person_in_bed",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🧑‍🤝‍🧑",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "손을 잡고 있는 사람들",
+		"slug": "people_holding_hands",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "👭",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "손을 잡고 여성",
+		"slug": "women_holding_hands",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "👫",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "여자와 남자 손을 잡고",
+		"slug": "woman_and_man_holding_hands",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👬",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "12.0",
+		"name": "손을 잡고 남자",
+		"slug": "men_holding_hands",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "💏",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "키스",
+		"slug": "kiss",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👩‍❤️‍💋‍👨",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "키스 여자, 남자",
+		"slug": "kiss_woman_man",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍❤️‍💋‍👨",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "키스 맨, 맨",
+		"slug": "kiss_man_man",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👩‍❤️‍💋‍👩",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "키스 여자, 여자",
+		"slug": "kiss_woman_woman",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "💑",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "마음을 가진 커플",
+		"slug": "couple_with_heart",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👩‍❤️‍👨",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "심장 여자, 남자와 커플",
+		"slug": "couple_with_heart_woman_man",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍❤️‍👨",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "심장 남자, 남자와 커플",
+		"slug": "couple_with_heart_man_man",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👩‍❤️‍👩",
+		"skin_tone_support": true,
+		"skin_tone_support_unicode_version": "13.1",
+		"name": "심장 여자, 여자와 커플",
+		"slug": "couple_with_heart_woman_woman",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👪",
+		"skin_tone_support": false,
+		"name": "가족",
+		"slug": "family",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👨‍👩‍👦",
+		"skin_tone_support": false,
+		"name": "가족 남자, 여자, 소년",
+		"slug": "family_man_woman_boy",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👩‍👧",
+		"skin_tone_support": false,
+		"name": "가족 남자, 여자, 소녀",
+		"slug": "family_man_woman_girl",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👩‍👧‍👦",
+		"skin_tone_support": false,
+		"name": "가족 남자, 여자, 소녀, 소년",
+		"slug": "family_man_woman_girl_boy",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👩‍👦‍👦",
+		"skin_tone_support": false,
+		"name": "가족 남자, 여자, 소년, 소년",
+		"slug": "family_man_woman_boy_boy",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👩‍👧‍👧",
+		"skin_tone_support": false,
+		"name": "가족 남자, 여자, 소녀, 소녀",
+		"slug": "family_man_woman_girl_girl",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👨‍👦",
+		"skin_tone_support": false,
+		"name": "가족 남자, 남자, 소년",
+		"slug": "family_man_man_boy",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👨‍👧",
+		"skin_tone_support": false,
+		"name": "가족 남자, 남자, 소녀",
+		"slug": "family_man_man_girl",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👨‍👧‍👦",
+		"skin_tone_support": false,
+		"name": "가족 남자, 남자, 소녀, 소년",
+		"slug": "family_man_man_girl_boy",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👨‍👦‍👦",
+		"skin_tone_support": false,
+		"name": "가족 남자, 남자, 소년, 소년",
+		"slug": "family_man_man_boy_boy",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👨‍👧‍👧",
+		"skin_tone_support": false,
+		"name": "가족 남자, 남자, 소녀, 소녀",
+		"slug": "family_man_man_girl_girl",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👩‍👩‍👦",
+		"skin_tone_support": false,
+		"name": "가족 여자, 여자, 소년",
+		"slug": "family_woman_woman_boy",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👩‍👩‍👧",
+		"skin_tone_support": false,
+		"name": "가족 여자, 여자, 소녀",
+		"slug": "family_woman_woman_girl",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👩‍👩‍👧‍👦",
+		"skin_tone_support": false,
+		"name": "가족 여자, 여자, 소녀, 소년",
+		"slug": "family_woman_woman_girl_boy",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👩‍👩‍👦‍👦",
+		"skin_tone_support": false,
+		"name": "가족 여자, 여자, 소년, 소년",
+		"slug": "family_woman_woman_boy_boy",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👩‍👩‍👧‍👧",
+		"skin_tone_support": false,
+		"name": "가족 여자, 여자, 소녀, 소녀",
+		"slug": "family_woman_woman_girl_girl",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "👨‍👦",
+		"skin_tone_support": false,
+		"name": "가족 남자, 소년",
+		"slug": "family_man_boy",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👨‍👦‍👦",
+		"skin_tone_support": false,
+		"name": "패밀리 맨, 소년, 소년",
+		"slug": "family_man_boy_boy",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👨‍👧",
+		"skin_tone_support": false,
+		"name": "가족의 남자, 소녀",
+		"slug": "family_man_girl",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👨‍👧‍👦",
+		"skin_tone_support": false,
+		"name": "가족 남자, 소녀, 소년",
+		"slug": "family_man_girl_boy",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👨‍👧‍👧",
+		"skin_tone_support": false,
+		"name": "가족 남자, 소녀, 소녀",
+		"slug": "family_man_girl_girl",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍👦",
+		"skin_tone_support": false,
+		"name": "가족 여자, 소년",
+		"slug": "family_woman_boy",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍👦‍👦",
+		"skin_tone_support": false,
+		"name": "가족 여자, 소년, 소년",
+		"slug": "family_woman_boy_boy",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍👧",
+		"skin_tone_support": false,
+		"name": "가족 여자, 소녀",
+		"slug": "family_woman_girl",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍👧‍👦",
+		"skin_tone_support": false,
+		"name": "가족 여자, 소녀, 소년",
+		"slug": "family_woman_girl_boy",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "👩‍👧‍👧",
+		"skin_tone_support": false,
+		"name": "가족 여자, 소녀, 소녀",
+		"slug": "family_woman_girl_girl",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "🗣️",
+		"skin_tone_support": false,
+		"name": "말하는 머리",
+		"slug": "speaking_head",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "👤",
+		"skin_tone_support": false,
+		"name": "실루엣의 흉상",
+		"slug": "bust_in_silhouette",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "👥",
+		"skin_tone_support": false,
+		"name": "실루엣의 흉상",
+		"slug": "busts_in_silhouette",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🫂",
+		"skin_tone_support": false,
+		"name": "포옹하는 사람들",
+		"slug": "people_hugging",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "👣",
+		"skin_tone_support": false,
+		"name": "발자취",
+		"slug": "footprints",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	}
+]

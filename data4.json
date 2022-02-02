@@ -1,0 +1,1722 @@
+[
+	{
+		"emoji": "🌍",
+		"skin_tone_support": false,
+		"name": "유럽-아프리카를 보여주는 지구본",
+		"slug": "globe_showing_europe_africa",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌎",
+		"skin_tone_support": false,
+		"name": "미주를 보여주는 지구본",
+		"slug": "globe_showing_americas",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌏",
+		"skin_tone_support": false,
+		"name": "아시아-호주를 보여주는 지구본",
+		"slug": "globe_showing_asia_australia",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌐",
+		"skin_tone_support": false,
+		"name": "자오선이 있는 지구",
+		"slug": "globe_with_meridians",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🗺️",
+		"skin_tone_support": false,
+		"name": "세계지도",
+		"slug": "world_map",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🗾",
+		"skin_tone_support": false,
+		"name": "일본 지도",
+		"slug": "map_of_japan",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧭",
+		"skin_tone_support": false,
+		"name": "나침반",
+		"slug": "compass",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🏔️",
+		"skin_tone_support": false,
+		"name": "눈 덮인 산",
+		"slug": "snow_capped_mountain",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⛰️",
+		"skin_tone_support": false,
+		"name": "산",
+		"slug": "mountain",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌋",
+		"skin_tone_support": false,
+		"name": "화산",
+		"slug": "volcano",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🗻",
+		"skin_tone_support": false,
+		"name": "후지산",
+		"slug": "mount_fuji",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏕️",
+		"skin_tone_support": false,
+		"name": "캠핑",
+		"slug": "camping",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏖️",
+		"skin_tone_support": false,
+		"name": "우산이 있는 해변",
+		"slug": "beach_with_umbrella",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏜️",
+		"skin_tone_support": false,
+		"name": "사막",
+		"slug": "desert",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏝️",
+		"skin_tone_support": false,
+		"name": "무인도",
+		"slug": "desert_island",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏞️",
+		"skin_tone_support": false,
+		"name": "국립 공원",
+		"slug": "national_park",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏟️",
+		"skin_tone_support": false,
+		"name": "경기장",
+		"slug": "stadium",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏛️",
+		"skin_tone_support": false,
+		"name": "고전적인 건물",
+		"slug": "classical_building",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏗️",
+		"skin_tone_support": false,
+		"name": "건물 건설",
+		"slug": "building_construction",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🧱",
+		"skin_tone_support": false,
+		"name": "벽돌",
+		"slug": "brick",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🪨",
+		"skin_tone_support": false,
+		"name": "바위",
+		"slug": "rock",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🪵",
+		"skin_tone_support": false,
+		"name": "목재",
+		"slug": "wood",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🛖",
+		"skin_tone_support": false,
+		"name": "오두막",
+		"slug": "hut",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🏘️",
+		"skin_tone_support": false,
+		"name": "주택",
+		"slug": "houses",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏚️",
+		"skin_tone_support": false,
+		"name": "버려진 집",
+		"slug": "derelict_house",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏠",
+		"skin_tone_support": false,
+		"name": "집",
+		"slug": "house",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏡",
+		"skin_tone_support": false,
+		"name": "정원이 있는 집",
+		"slug": "house_with_garden",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏢",
+		"skin_tone_support": false,
+		"name": "사무실 건물",
+		"slug": "office_building",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏣",
+		"skin_tone_support": false,
+		"name": "일본 우체국",
+		"slug": "japanese_post_office",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏤",
+		"skin_tone_support": false,
+		"name": "우체국",
+		"slug": "post_office",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🏥",
+		"skin_tone_support": false,
+		"name": "병원",
+		"slug": "hospital",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏦",
+		"skin_tone_support": false,
+		"name": "은행",
+		"slug": "bank",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏨",
+		"skin_tone_support": false,
+		"name": "호텔",
+		"slug": "hotel",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏩",
+		"skin_tone_support": false,
+		"name": "러브 호텔",
+		"slug": "love_hotel",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏪",
+		"skin_tone_support": false,
+		"name": "편의점",
+		"slug": "convenience_store",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏫",
+		"skin_tone_support": false,
+		"name": "학교",
+		"slug": "school",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏬",
+		"skin_tone_support": false,
+		"name": "백화점",
+		"slug": "department_store",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏭",
+		"skin_tone_support": false,
+		"name": "공장",
+		"slug": "factory",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏯",
+		"skin_tone_support": false,
+		"name": "일본 성",
+		"slug": "japanese_castle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏰",
+		"skin_tone_support": false,
+		"name": "성",
+		"slug": "castle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💒",
+		"skin_tone_support": false,
+		"name": "혼례",
+		"slug": "wedding",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🗼",
+		"skin_tone_support": false,
+		"name": "도쿄 타워",
+		"slug": "tokyo_tower",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🗽",
+		"skin_tone_support": false,
+		"name": "자유의 여신상",
+		"slug": "statue_of_liberty",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⛪",
+		"skin_tone_support": false,
+		"name": "교회",
+		"slug": "church",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕌",
+		"skin_tone_support": false,
+		"name": "사원",
+		"slug": "mosque",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🛕",
+		"skin_tone_support": false,
+		"name": "힌두교 사원",
+		"slug": "hindu_temple",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🕍",
+		"skin_tone_support": false,
+		"name": "유태 교회당",
+		"slug": "synagogue",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "⛩️",
+		"skin_tone_support": false,
+		"name": "신사",
+		"slug": "shinto_shrine",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕋",
+		"skin_tone_support": false,
+		"name": "카바",
+		"slug": "kaaba",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "⛲",
+		"skin_tone_support": false,
+		"name": "분수",
+		"slug": "fountain",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⛺",
+		"skin_tone_support": false,
+		"name": "텐트",
+		"slug": "tent",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌁",
+		"skin_tone_support": false,
+		"name": "흐린",
+		"slug": "foggy",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌃",
+		"skin_tone_support": false,
+		"name": "별이 있는 밤",
+		"slug": "night_with_stars",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏙️",
+		"skin_tone_support": false,
+		"name": "도시 풍경",
+		"slug": "cityscape",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌄",
+		"skin_tone_support": false,
+		"name": "산 위로 일출",
+		"slug": "sunrise_over_mountains",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌅",
+		"skin_tone_support": false,
+		"name": "해돋이",
+		"slug": "sunrise",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌆",
+		"skin_tone_support": false,
+		"name": "황혼의 도시 풍경",
+		"slug": "cityscape_at_dusk",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌇",
+		"skin_tone_support": false,
+		"name": "일몰",
+		"slug": "sunset",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌉",
+		"skin_tone_support": false,
+		"name": "밤에 다리",
+		"slug": "bridge_at_night",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♨️",
+		"skin_tone_support": false,
+		"name": "온천",
+		"slug": "hot_springs",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎠",
+		"skin_tone_support": false,
+		"name": "회전 목마",
+		"slug": "carousel_horse",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎡",
+		"skin_tone_support": false,
+		"name": "관람차",
+		"slug": "ferris_wheel",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎢",
+		"skin_tone_support": false,
+		"name": "롤러 코스터",
+		"slug": "roller_coaster",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💈",
+		"skin_tone_support": false,
+		"name": "이발소의 간판 기둥",
+		"slug": "barber_pole",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎪",
+		"skin_tone_support": false,
+		"name": "서커스 텐트",
+		"slug": "circus_tent",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚂",
+		"skin_tone_support": false,
+		"name": "기관차",
+		"slug": "locomotive",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚃",
+		"skin_tone_support": false,
+		"name": "철도 차량",
+		"slug": "railway_car",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚄",
+		"skin_tone_support": false,
+		"name": "고속 열차",
+		"slug": "high_speed_train",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚅",
+		"skin_tone_support": false,
+		"name": "초고속 열차",
+		"slug": "bullet_train",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚆",
+		"skin_tone_support": false,
+		"name": "기차",
+		"slug": "train",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚇",
+		"skin_tone_support": false,
+		"name": "지하철",
+		"slug": "metro",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚈",
+		"skin_tone_support": false,
+		"name": "경전철",
+		"slug": "light_rail",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚉",
+		"skin_tone_support": false,
+		"name": "역",
+		"slug": "station",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚊",
+		"skin_tone_support": false,
+		"name": "시가 전차",
+		"slug": "tram",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚝",
+		"skin_tone_support": false,
+		"name": "모노레일",
+		"slug": "monorail",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚞",
+		"skin_tone_support": false,
+		"name": "산악 철도",
+		"slug": "mountain_railway",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚋",
+		"skin_tone_support": false,
+		"name": "트램 카",
+		"slug": "tram_car",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚌",
+		"skin_tone_support": false,
+		"name": "버스",
+		"slug": "bus",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚍",
+		"skin_tone_support": false,
+		"name": "다가오는 버스",
+		"slug": "oncoming_bus",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🚎",
+		"skin_tone_support": false,
+		"name": "무궤도 전차",
+		"slug": "trolleybus",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚐",
+		"skin_tone_support": false,
+		"name": "소형 버스",
+		"slug": "minibus",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚑",
+		"skin_tone_support": false,
+		"name": "구급차",
+		"slug": "ambulance",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚒",
+		"skin_tone_support": false,
+		"name": "소방차",
+		"slug": "fire_engine",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚓",
+		"skin_tone_support": false,
+		"name": "경찰차",
+		"slug": "police_car",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚔",
+		"skin_tone_support": false,
+		"name": "다가오는 경찰차",
+		"slug": "oncoming_police_car",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🚕",
+		"skin_tone_support": false,
+		"name": "택시",
+		"slug": "taxi",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚖",
+		"skin_tone_support": false,
+		"name": "다가오는 택시",
+		"slug": "oncoming_taxi",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚗",
+		"skin_tone_support": false,
+		"name": "자동차",
+		"slug": "automobile",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚘",
+		"skin_tone_support": false,
+		"name": "다가오는 자동차",
+		"slug": "oncoming_automobile",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🚙",
+		"skin_tone_support": false,
+		"name": "스포츠 유틸리티 차량",
+		"slug": "sport_utility_vehicle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛻",
+		"skin_tone_support": false,
+		"name": "픽업 트럭",
+		"slug": "pickup_truck",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🚚",
+		"skin_tone_support": false,
+		"name": "배달 트럭",
+		"slug": "delivery_truck",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚛",
+		"skin_tone_support": false,
+		"name": "굴절식 트럭",
+		"slug": "articulated_lorry",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚜",
+		"skin_tone_support": false,
+		"name": "트랙터",
+		"slug": "tractor",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🏎️",
+		"skin_tone_support": false,
+		"name": "경주 용 자동차",
+		"slug": "racing_car",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏍️",
+		"skin_tone_support": false,
+		"name": "오토바이",
+		"slug": "motorcycle",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🛵",
+		"skin_tone_support": false,
+		"name": "모터 스쿠터",
+		"slug": "motor_scooter",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🦽",
+		"skin_tone_support": false,
+		"name": "수동 휠체어",
+		"slug": "manual_wheelchair",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🦼",
+		"skin_tone_support": false,
+		"name": "전동 휠체어",
+		"slug": "motorized_wheelchair",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🛺",
+		"skin_tone_support": false,
+		"name": "자동 인력거",
+		"slug": "auto_rickshaw",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🚲",
+		"skin_tone_support": false,
+		"name": "자전거",
+		"slug": "bicycle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛴",
+		"skin_tone_support": false,
+		"name": "킥 스쿠터",
+		"slug": "kick_scooter",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🛹",
+		"skin_tone_support": false,
+		"name": "스케이트보드",
+		"slug": "skateboard",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🛼",
+		"skin_tone_support": false,
+		"name": "롤러 스케이트",
+		"slug": "roller_skate",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🚏",
+		"skin_tone_support": false,
+		"name": "버스 정류장",
+		"slug": "bus_stop",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛣️",
+		"skin_tone_support": false,
+		"name": "고속 도로",
+		"slug": "motorway",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🛤️",
+		"skin_tone_support": false,
+		"name": "기찻길",
+		"slug": "railway_track",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🛢️",
+		"skin_tone_support": false,
+		"name": "기름 통",
+		"slug": "oil_drum",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⛽",
+		"skin_tone_support": false,
+		"name": "연료 펌프",
+		"slug": "fuel_pump",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚨",
+		"skin_tone_support": false,
+		"name": "경찰차 라이트",
+		"slug": "police_car_light",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚥",
+		"skin_tone_support": false,
+		"name": "수평 신호등",
+		"slug": "horizontal_traffic_light",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚦",
+		"skin_tone_support": false,
+		"name": "수직 신호등",
+		"slug": "vertical_traffic_light",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🛑",
+		"skin_tone_support": false,
+		"name": "정지 신호",
+		"slug": "stop_sign",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🚧",
+		"skin_tone_support": false,
+		"name": "건설",
+		"slug": "construction",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⚓",
+		"skin_tone_support": false,
+		"name": "닻",
+		"slug": "anchor",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⛵",
+		"skin_tone_support": false,
+		"name": "요트",
+		"slug": "sailboat",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛶",
+		"skin_tone_support": false,
+		"name": "카누",
+		"slug": "canoe",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🚤",
+		"skin_tone_support": false,
+		"name": "쾌속정",
+		"slug": "speedboat",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛳️",
+		"skin_tone_support": false,
+		"name": "여객선",
+		"slug": "passenger_ship",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⛴️",
+		"skin_tone_support": false,
+		"name": "나룻배",
+		"slug": "ferry",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🛥️",
+		"skin_tone_support": false,
+		"name": "모터 보트",
+		"slug": "motor_boat",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🚢",
+		"skin_tone_support": false,
+		"name": "배",
+		"slug": "ship",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "✈️",
+		"skin_tone_support": false,
+		"name": "비행기",
+		"slug": "airplane",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛩️",
+		"skin_tone_support": false,
+		"name": "작은 비행기",
+		"slug": "small_airplane",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🛫",
+		"skin_tone_support": false,
+		"name": "비행기 출발",
+		"slug": "airplane_departure",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🛬",
+		"skin_tone_support": false,
+		"name": "비행기 도착",
+		"slug": "airplane_arrival",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🪂",
+		"skin_tone_support": false,
+		"name": "낙하산",
+		"slug": "parachute",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "💺",
+		"skin_tone_support": false,
+		"name": "좌석",
+		"slug": "seat",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚁",
+		"skin_tone_support": false,
+		"name": "헬리콥터",
+		"slug": "helicopter",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚟",
+		"skin_tone_support": false,
+		"name": "서스펜션 철도",
+		"slug": "suspension_railway",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚠",
+		"skin_tone_support": false,
+		"name": "산악 케이블카",
+		"slug": "mountain_cableway",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚡",
+		"skin_tone_support": false,
+		"name": "공중 트램웨이",
+		"slug": "aerial_tramway",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🛰️",
+		"skin_tone_support": false,
+		"name": "위성",
+		"slug": "satellite",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🚀",
+		"skin_tone_support": false,
+		"name": "로켓",
+		"slug": "rocket",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛸",
+		"skin_tone_support": false,
+		"name": "비행 접시",
+		"slug": "flying_saucer",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🛎️",
+		"skin_tone_support": false,
+		"name": "벨보이 벨",
+		"slug": "bellhop_bell",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🧳",
+		"skin_tone_support": false,
+		"name": "수화물",
+		"slug": "luggage",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "⌛",
+		"skin_tone_support": false,
+		"name": "모래 시계 완료",
+		"slug": "hourglass_done",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏳",
+		"skin_tone_support": false,
+		"name": "모래 시계가 완료되지 않았습니다",
+		"slug": "hourglass_not_done",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⌚",
+		"skin_tone_support": false,
+		"name": "보다",
+		"slug": "watch",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏰",
+		"skin_tone_support": false,
+		"name": "알람 시계",
+		"slug": "alarm_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏱️",
+		"skin_tone_support": false,
+		"name": "스톱워치",
+		"slug": "stopwatch",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "⏲️",
+		"skin_tone_support": false,
+		"name": "타이머 시계",
+		"slug": "timer_clock",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🕰️",
+		"skin_tone_support": false,
+		"name": "벽난로 시계",
+		"slug": "mantelpiece_clock",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕛",
+		"skin_tone_support": false,
+		"name": "열두시",
+		"slug": "twelve_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕧",
+		"skin_tone_support": false,
+		"name": "12시 30분",
+		"slug": "twelve_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕐",
+		"skin_tone_support": false,
+		"name": "1시",
+		"slug": "one_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕜",
+		"skin_tone_support": false,
+		"name": "삼십분",
+		"slug": "one_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕑",
+		"skin_tone_support": false,
+		"name": "두시",
+		"slug": "two_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕝",
+		"skin_tone_support": false,
+		"name": "이삼십",
+		"slug": "two_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕒",
+		"skin_tone_support": false,
+		"name": "3시",
+		"slug": "three_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕞",
+		"skin_tone_support": false,
+		"name": "삼시삼십",
+		"slug": "three_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕓",
+		"skin_tone_support": false,
+		"name": "4시",
+		"slug": "four_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕟",
+		"skin_tone_support": false,
+		"name": "4시 30분",
+		"slug": "four_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕔",
+		"skin_tone_support": false,
+		"name": "다섯시",
+		"slug": "five_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕠",
+		"skin_tone_support": false,
+		"name": "5시 30분",
+		"slug": "five_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕕",
+		"skin_tone_support": false,
+		"name": "여섯시",
+		"slug": "six_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕡",
+		"skin_tone_support": false,
+		"name": "6시 30분",
+		"slug": "six_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕖",
+		"skin_tone_support": false,
+		"name": "일곱시",
+		"slug": "seven_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕢",
+		"skin_tone_support": false,
+		"name": "7시 30분",
+		"slug": "seven_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕗",
+		"skin_tone_support": false,
+		"name": "여덟시",
+		"slug": "eight_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕣",
+		"skin_tone_support": false,
+		"name": "여덟시 삼십분",
+		"slug": "eight_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕘",
+		"skin_tone_support": false,
+		"name": "아홉시",
+		"slug": "nine_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕤",
+		"skin_tone_support": false,
+		"name": "9시 30분",
+		"slug": "nine_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕙",
+		"skin_tone_support": false,
+		"name": "열시",
+		"slug": "ten_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕥",
+		"skin_tone_support": false,
+		"name": "10시 30분",
+		"slug": "ten_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🕚",
+		"skin_tone_support": false,
+		"name": "열 한시",
+		"slug": "eleven_o_clock",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕦",
+		"skin_tone_support": false,
+		"name": "열한시 삼십분",
+		"slug": "eleven_thirty",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌑",
+		"skin_tone_support": false,
+		"name": "뉴 문",
+		"slug": "new_moon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌒",
+		"skin_tone_support": false,
+		"name": "왁싱 초승달",
+		"slug": "waxing_crescent_moon",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🌓",
+		"skin_tone_support": false,
+		"name": "1분기 달",
+		"slug": "first_quarter_moon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌔",
+		"skin_tone_support": false,
+		"name": "왁싱 긴팔 달",
+		"slug": "waxing_gibbous_moon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌕",
+		"skin_tone_support": false,
+		"name": "보름달",
+		"slug": "full_moon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌖",
+		"skin_tone_support": false,
+		"name": "쇠약해지는 긴팔 달",
+		"slug": "waning_gibbous_moon",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🌗",
+		"skin_tone_support": false,
+		"name": "지난 분기 달",
+		"slug": "last_quarter_moon",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🌘",
+		"skin_tone_support": false,
+		"name": "약해지는 초승달",
+		"slug": "waning_crescent_moon",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🌙",
+		"skin_tone_support": false,
+		"name": "초승달",
+		"slug": "crescent_moon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌚",
+		"skin_tone_support": false,
+		"name": "초승달 얼굴",
+		"slug": "new_moon_face",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🌛",
+		"skin_tone_support": false,
+		"name": "1분기 달의 얼굴",
+		"slug": "first_quarter_moon_face",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌜",
+		"skin_tone_support": false,
+		"name": "지난 분기 달 얼굴",
+		"slug": "last_quarter_moon_face",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌡️",
+		"skin_tone_support": false,
+		"name": "온도계",
+		"slug": "thermometer",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "☀️",
+		"skin_tone_support": false,
+		"name": "태양",
+		"slug": "sun",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌝",
+		"skin_tone_support": false,
+		"name": "보름달 얼굴",
+		"slug": "full_moon_face",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🌞",
+		"skin_tone_support": false,
+		"name": "얼굴을 가진 태양",
+		"slug": "sun_with_face",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🪐",
+		"skin_tone_support": false,
+		"name": "고리 행성",
+		"slug": "ringed_planet",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "⭐",
+		"skin_tone_support": false,
+		"name": "별",
+		"slug": "star",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌟",
+		"skin_tone_support": false,
+		"name": "빛나는 별",
+		"slug": "glowing_star",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌠",
+		"skin_tone_support": false,
+		"name": "슈팅 스타",
+		"slug": "shooting_star",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌌",
+		"skin_tone_support": false,
+		"name": "은하수",
+		"slug": "milky_way",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "☁️",
+		"skin_tone_support": false,
+		"name": "구름",
+		"slug": "cloud",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⛅",
+		"skin_tone_support": false,
+		"name": "구름 뒤에 태양",
+		"slug": "sun_behind_cloud",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⛈️",
+		"skin_tone_support": false,
+		"name": "번개와 비 구름",
+		"slug": "cloud_with_lightning_and_rain",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌤️",
+		"skin_tone_support": false,
+		"name": "작은 구름 뒤에 태양",
+		"slug": "sun_behind_small_cloud",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌥️",
+		"skin_tone_support": false,
+		"name": "큰 구름 뒤에 태양",
+		"slug": "sun_behind_large_cloud",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌦️",
+		"skin_tone_support": false,
+		"name": "비 구름 뒤에 태양",
+		"slug": "sun_behind_rain_cloud",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌧️",
+		"skin_tone_support": false,
+		"name": "비와 구름",
+		"slug": "cloud_with_rain",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌨️",
+		"skin_tone_support": false,
+		"name": "눈이 내리는 구름",
+		"slug": "cloud_with_snow",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌩️",
+		"skin_tone_support": false,
+		"name": "번개가 치는 구름",
+		"slug": "cloud_with_lightning",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌪️",
+		"skin_tone_support": false,
+		"name": "폭풍",
+		"slug": "tornado",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌫️",
+		"skin_tone_support": false,
+		"name": "안개",
+		"slug": "fog",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌬️",
+		"skin_tone_support": false,
+		"name": "바람의 얼굴",
+		"slug": "wind_face",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🌀",
+		"skin_tone_support": false,
+		"name": "집진 장치",
+		"slug": "cyclone",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌈",
+		"skin_tone_support": false,
+		"name": "무지개",
+		"slug": "rainbow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌂",
+		"skin_tone_support": false,
+		"name": "닫힌 우산",
+		"slug": "closed_umbrella",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "☂️",
+		"skin_tone_support": false,
+		"name": "우산",
+		"slug": "umbrella",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "☔",
+		"skin_tone_support": false,
+		"name": "빗방울이 있는 우산",
+		"slug": "umbrella_with_rain_drops",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⛱️",
+		"skin_tone_support": false,
+		"name": "지상에 우산",
+		"slug": "umbrella_on_ground",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⚡",
+		"skin_tone_support": false,
+		"name": "높은 전압",
+		"slug": "high_voltage",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "❄️",
+		"skin_tone_support": false,
+		"name": "눈송이",
+		"slug": "snowflake",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "☃️",
+		"skin_tone_support": false,
+		"name": "눈사람",
+		"slug": "snowman",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⛄",
+		"skin_tone_support": false,
+		"name": "눈 없는 눈사람",
+		"slug": "snowman_without_snow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "☄️",
+		"skin_tone_support": false,
+		"name": "혜성",
+		"slug": "comet",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🔥",
+		"skin_tone_support": false,
+		"name": "불",
+		"slug": "fire",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💧",
+		"skin_tone_support": false,
+		"name": "작은 물방울",
+		"slug": "droplet",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌊",
+		"skin_tone_support": false,
+		"name": "물결",
+		"slug": "water_wave",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	}
+]

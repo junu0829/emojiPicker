@@ -1,0 +1,1034 @@
+[
+	{
+		"emoji": "🍇",
+		"skin_tone_support": false,
+		"name": "포도",
+		"slug": "grapes",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍈",
+		"skin_tone_support": false,
+		"name": "멜론",
+		"slug": "melon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍉",
+		"skin_tone_support": false,
+		"name": "수박",
+		"slug": "watermelon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍊",
+		"skin_tone_support": false,
+		"name": "귤",
+		"slug": "tangerine",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍋",
+		"skin_tone_support": false,
+		"name": "레몬",
+		"slug": "lemon",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🍌",
+		"skin_tone_support": false,
+		"name": "바나나",
+		"slug": "banana",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍍",
+		"skin_tone_support": false,
+		"name": "파인애플",
+		"slug": "pineapple",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥭",
+		"skin_tone_support": false,
+		"name": "망고",
+		"slug": "mango",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🍎",
+		"skin_tone_support": false,
+		"name": "빨간 사과",
+		"slug": "red_apple",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍏",
+		"skin_tone_support": false,
+		"name": "녹색 사과",
+		"slug": "green_apple",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍐",
+		"skin_tone_support": false,
+		"name": "배",
+		"slug": "pear",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🍑",
+		"skin_tone_support": false,
+		"name": "복숭아",
+		"slug": "peach",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍒",
+		"skin_tone_support": false,
+		"name": "버찌",
+		"slug": "cherries",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍓",
+		"skin_tone_support": false,
+		"name": "딸기",
+		"slug": "strawberry",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🫐",
+		"skin_tone_support": false,
+		"name": "블루 베리",
+		"slug": "blueberries",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🥝",
+		"skin_tone_support": false,
+		"name": "키위 과일",
+		"slug": "kiwi_fruit",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🍅",
+		"skin_tone_support": false,
+		"name": "토마토",
+		"slug": "tomato",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🫒",
+		"skin_tone_support": false,
+		"name": "올리브",
+		"slug": "olive",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🥥",
+		"skin_tone_support": false,
+		"name": "코코넛",
+		"slug": "coconut",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🥑",
+		"skin_tone_support": false,
+		"name": "아보카도",
+		"slug": "avocado",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🍆",
+		"skin_tone_support": false,
+		"name": "가지",
+		"slug": "eggplant",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥔",
+		"skin_tone_support": false,
+		"name": "감자",
+		"slug": "potato",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🥕",
+		"skin_tone_support": false,
+		"name": "당근",
+		"slug": "carrot",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🌽",
+		"skin_tone_support": false,
+		"name": "옥수수 껍데기",
+		"slug": "ear_of_corn",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌶️",
+		"skin_tone_support": false,
+		"name": "매운 고추",
+		"slug": "hot_pepper",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🫑",
+		"skin_tone_support": false,
+		"name": "피망",
+		"slug": "bell_pepper",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🥒",
+		"skin_tone_support": false,
+		"name": "오이",
+		"slug": "cucumber",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🥬",
+		"skin_tone_support": false,
+		"name": "잎이 많은 녹색",
+		"slug": "leafy_green",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🥦",
+		"skin_tone_support": false,
+		"name": "브로콜리",
+		"slug": "broccoli",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧄",
+		"skin_tone_support": false,
+		"name": "마늘",
+		"slug": "garlic",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧅",
+		"skin_tone_support": false,
+		"name": "양파",
+		"slug": "onion",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🍄",
+		"skin_tone_support": false,
+		"name": "버섯",
+		"slug": "mushroom",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥜",
+		"skin_tone_support": false,
+		"name": "땅콩",
+		"slug": "peanuts",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🌰",
+		"skin_tone_support": false,
+		"name": "밤나무",
+		"slug": "chestnut",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍞",
+		"skin_tone_support": false,
+		"name": "빵",
+		"slug": "bread",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥐",
+		"skin_tone_support": false,
+		"name": "초승달",
+		"slug": "croissant",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🥖",
+		"skin_tone_support": false,
+		"name": "바게트 빵",
+		"slug": "baguette_bread",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🫓",
+		"skin_tone_support": false,
+		"name": "단 빵",
+		"slug": "flatbread",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🥨",
+		"skin_tone_support": false,
+		"name": "프레첼",
+		"slug": "pretzel",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🥯",
+		"skin_tone_support": false,
+		"name": "베이글",
+		"slug": "bagel",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🥞",
+		"skin_tone_support": false,
+		"name": "팬케이크",
+		"slug": "pancakes",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🧇",
+		"skin_tone_support": false,
+		"name": "와플",
+		"slug": "waffle",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧀",
+		"skin_tone_support": false,
+		"name": "치즈 웨지",
+		"slug": "cheese_wedge",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🍖",
+		"skin_tone_support": false,
+		"name": "뼈에 고기",
+		"slug": "meat_on_bone",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍗",
+		"skin_tone_support": false,
+		"name": "가금류 다리",
+		"slug": "poultry_leg",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥩",
+		"skin_tone_support": false,
+		"name": "고기를 잘라",
+		"slug": "cut_of_meat",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🥓",
+		"skin_tone_support": false,
+		"name": "베이컨",
+		"slug": "bacon",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🍔",
+		"skin_tone_support": false,
+		"name": "햄버거",
+		"slug": "hamburger",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍟",
+		"skin_tone_support": false,
+		"name": "감자 튀김",
+		"slug": "french_fries",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍕",
+		"skin_tone_support": false,
+		"name": "피자",
+		"slug": "pizza",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🌭",
+		"skin_tone_support": false,
+		"name": "핫도그",
+		"slug": "hot_dog",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🥪",
+		"skin_tone_support": false,
+		"name": "샌드위치",
+		"slug": "sandwich",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🌮",
+		"skin_tone_support": false,
+		"name": "타코",
+		"slug": "taco",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🌯",
+		"skin_tone_support": false,
+		"name": "부리또",
+		"slug": "burrito",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🫔",
+		"skin_tone_support": false,
+		"name": "타말레",
+		"slug": "tamale",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🥙",
+		"skin_tone_support": false,
+		"name": "속을 채운 플랫 브레드",
+		"slug": "stuffed_flatbread",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🧆",
+		"skin_tone_support": false,
+		"name": "팔라 펠",
+		"slug": "falafel",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🥚",
+		"skin_tone_support": false,
+		"name": "계란",
+		"slug": "egg",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🍳",
+		"skin_tone_support": false,
+		"name": "요리",
+		"slug": "cooking",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥘",
+		"skin_tone_support": false,
+		"name": "얕은 음식 냄비",
+		"slug": "shallow_pan_of_food",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🍲",
+		"skin_tone_support": false,
+		"name": "음식 냄비",
+		"slug": "pot_of_food",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🫕",
+		"skin_tone_support": false,
+		"name": "폰듀",
+		"slug": "fondue",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🥣",
+		"skin_tone_support": false,
+		"name": "숟가락으로 그릇",
+		"slug": "bowl_with_spoon",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🥗",
+		"skin_tone_support": false,
+		"name": "그린 샐러드",
+		"slug": "green_salad",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🍿",
+		"skin_tone_support": false,
+		"name": "팝콘",
+		"slug": "popcorn",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🧈",
+		"skin_tone_support": false,
+		"name": "버터",
+		"slug": "butter",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧂",
+		"skin_tone_support": false,
+		"name": "소금",
+		"slug": "salt",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🥫",
+		"skin_tone_support": false,
+		"name": "통조림 식품",
+		"slug": "canned_food",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🍱",
+		"skin_tone_support": false,
+		"name": "도시락 상자",
+		"slug": "bento_box",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍘",
+		"skin_tone_support": false,
+		"name": "쌀과자",
+		"slug": "rice_cracker",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍙",
+		"skin_tone_support": false,
+		"name": "주먹밥",
+		"slug": "rice_ball",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍚",
+		"skin_tone_support": false,
+		"name": "밥",
+		"slug": "cooked_rice",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍛",
+		"skin_tone_support": false,
+		"name": "카레 밥",
+		"slug": "curry_rice",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍜",
+		"skin_tone_support": false,
+		"name": "김이 나는 그릇",
+		"slug": "steaming_bowl",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍝",
+		"skin_tone_support": false,
+		"name": "스파게티",
+		"slug": "spaghetti",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍠",
+		"skin_tone_support": false,
+		"name": "구운 고구마",
+		"slug": "roasted_sweet_potato",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍢",
+		"skin_tone_support": false,
+		"name": "오뎅",
+		"slug": "oden",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍣",
+		"skin_tone_support": false,
+		"name": "회",
+		"slug": "sushi",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍤",
+		"skin_tone_support": false,
+		"name": "새우 튀김",
+		"slug": "fried_shrimp",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍥",
+		"skin_tone_support": false,
+		"name": "소용돌이와 생선 케이크",
+		"slug": "fish_cake_with_swirl",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥮",
+		"skin_tone_support": false,
+		"name": "월병",
+		"slug": "moon_cake",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🍡",
+		"skin_tone_support": false,
+		"name": "dango",
+		"slug": "dango",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥟",
+		"skin_tone_support": false,
+		"name": "심",
+		"slug": "dumpling",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🥠",
+		"skin_tone_support": false,
+		"name": "포춘 쿠키",
+		"slug": "fortune_cookie",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🥡",
+		"skin_tone_support": false,
+		"name": "테이크아웃 상자",
+		"slug": "takeout_box",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🦀",
+		"skin_tone_support": false,
+		"name": "게",
+		"slug": "crab",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🦞",
+		"skin_tone_support": false,
+		"name": "랍스터",
+		"slug": "lobster",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🦐",
+		"skin_tone_support": false,
+		"name": "새우",
+		"slug": "shrimp",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🦑",
+		"skin_tone_support": false,
+		"name": "오징어",
+		"slug": "squid",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🦪",
+		"skin_tone_support": false,
+		"name": "굴",
+		"slug": "oyster",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🍦",
+		"skin_tone_support": false,
+		"name": "소프트 아이스크림",
+		"slug": "soft_ice_cream",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍧",
+		"skin_tone_support": false,
+		"name": "빙수",
+		"slug": "shaved_ice",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍨",
+		"skin_tone_support": false,
+		"name": "아이스크림",
+		"slug": "ice_cream",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍩",
+		"skin_tone_support": false,
+		"name": "도넛",
+		"slug": "doughnut",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍪",
+		"skin_tone_support": false,
+		"name": "쿠키",
+		"slug": "cookie",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎂",
+		"skin_tone_support": false,
+		"name": "생일 케이크",
+		"slug": "birthday_cake",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍰",
+		"skin_tone_support": false,
+		"name": "쇼트케이크",
+		"slug": "shortcake",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧁",
+		"skin_tone_support": false,
+		"name": "컵케익",
+		"slug": "cupcake",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🥧",
+		"skin_tone_support": false,
+		"name": "파이",
+		"slug": "pie",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🍫",
+		"skin_tone_support": false,
+		"name": "초콜릿 바",
+		"slug": "chocolate_bar",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍬",
+		"skin_tone_support": false,
+		"name": "사탕",
+		"slug": "candy",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍭",
+		"skin_tone_support": false,
+		"name": "사탕 과자",
+		"slug": "lollipop",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍮",
+		"skin_tone_support": false,
+		"name": "커스터드",
+		"slug": "custard",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍯",
+		"skin_tone_support": false,
+		"name": "꿀단지",
+		"slug": "honey_pot",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍼",
+		"skin_tone_support": false,
+		"name": "젖병",
+		"slug": "baby_bottle",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🥛",
+		"skin_tone_support": false,
+		"name": "우유 한 잔",
+		"slug": "glass_of_milk",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "☕",
+		"skin_tone_support": false,
+		"name": "뜨거운 음료",
+		"slug": "hot_beverage",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🫖",
+		"skin_tone_support": false,
+		"name": "찻주전자",
+		"slug": "teapot",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🍵",
+		"skin_tone_support": false,
+		"name": "손잡이가 없는 찻잔",
+		"slug": "teacup_without_handle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍶",
+		"skin_tone_support": false,
+		"name": "때문",
+		"slug": "sake",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍾",
+		"skin_tone_support": false,
+		"name": "코르크가 터지는 병",
+		"slug": "bottle_with_popping_cork",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🍷",
+		"skin_tone_support": false,
+		"name": "와인 잔",
+		"slug": "wine_glass",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍸",
+		"skin_tone_support": false,
+		"name": "칵테일 글라스",
+		"slug": "cocktail_glass",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍹",
+		"skin_tone_support": false,
+		"name": "열대 음료",
+		"slug": "tropical_drink",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍺",
+		"skin_tone_support": false,
+		"name": "맥주 잔",
+		"slug": "beer_mug",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🍻",
+		"skin_tone_support": false,
+		"name": "윙윙거리는 맥주잔",
+		"slug": "clinking_beer_mugs",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥂",
+		"skin_tone_support": false,
+		"name": "부딪히는 안경",
+		"slug": "clinking_glasses",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🥃",
+		"skin_tone_support": false,
+		"name": "텀블러 유리",
+		"slug": "tumbler_glass",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🥤",
+		"skin_tone_support": false,
+		"name": "빨대가 든 컵",
+		"slug": "cup_with_straw",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🧋",
+		"skin_tone_support": false,
+		"name": "버블티",
+		"slug": "bubble_tea",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🧃",
+		"skin_tone_support": false,
+		"name": "음료수 상자",
+		"slug": "beverage_box",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧉",
+		"skin_tone_support": false,
+		"name": "친구",
+		"slug": "mate",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🧊",
+		"skin_tone_support": false,
+		"name": "빙",
+		"slug": "ice",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🥢",
+		"skin_tone_support": false,
+		"name": "젓가락",
+		"slug": "chopsticks",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🍽️",
+		"skin_tone_support": false,
+		"name": "포크와 나이프 접시",
+		"slug": "fork_and_knife_with_plate",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🍴",
+		"skin_tone_support": false,
+		"name": "포크와 나이프",
+		"slug": "fork_and_knife",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥄",
+		"skin_tone_support": false,
+		"name": "숟가락",
+		"slug": "spoon",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🔪",
+		"skin_tone_support": false,
+		"name": "부엌 칼",
+		"slug": "kitchen_knife",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏺",
+		"skin_tone_support": false,
+		"name": "암포라",
+		"slug": "amphora",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	}
+]

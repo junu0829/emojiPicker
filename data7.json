@@ -1,0 +1,1762 @@
+[
+	{
+		"emoji": "🏧",
+		"skin_tone_support": false,
+		"name": "ATM 표시",
+		"slug": "atm_sign",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚮",
+		"skin_tone_support": false,
+		"name": "쓰레기통에 쓰레기",
+		"slug": "litter_in_bin_sign",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚰",
+		"skin_tone_support": false,
+		"name": "식수",
+		"slug": "potable_water",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "♿",
+		"skin_tone_support": false,
+		"name": "휠체어 기호",
+		"slug": "wheelchair_symbol",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚹",
+		"skin_tone_support": false,
+		"name": "남자 화장실",
+		"slug": "men_s_room",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚺",
+		"skin_tone_support": false,
+		"name": "여자 방",
+		"slug": "women_s_room",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚻",
+		"skin_tone_support": false,
+		"name": "화장실",
+		"slug": "restroom",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚼",
+		"skin_tone_support": false,
+		"name": "아기 상징",
+		"slug": "baby_symbol",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚾",
+		"skin_tone_support": false,
+		"name": "화장실",
+		"slug": "water_closet",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛂",
+		"skin_tone_support": false,
+		"name": "여권 통제",
+		"slug": "passport_control",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🛃",
+		"skin_tone_support": false,
+		"name": "세관",
+		"slug": "customs",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🛄",
+		"skin_tone_support": false,
+		"name": "수하물 찾는 곳",
+		"slug": "baggage_claim",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🛅",
+		"skin_tone_support": false,
+		"name": "짐을 두고 가다",
+		"slug": "left_luggage",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "⚠️",
+		"skin_tone_support": false,
+		"name": "경고",
+		"slug": "warning",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚸",
+		"skin_tone_support": false,
+		"name": "횡단하는 아이들",
+		"slug": "children_crossing",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "⛔",
+		"skin_tone_support": false,
+		"name": "출입 불가",
+		"slug": "no_entry",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚫",
+		"skin_tone_support": false,
+		"name": "금지",
+		"slug": "prohibited",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚳",
+		"skin_tone_support": false,
+		"name": "자전거 없음",
+		"slug": "no_bicycles",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚭",
+		"skin_tone_support": false,
+		"name": "금연",
+		"slug": "no_smoking",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🚯",
+		"skin_tone_support": false,
+		"name": "쓰레기 없음",
+		"slug": "no_littering",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚱",
+		"skin_tone_support": false,
+		"name": "마실 수 없는 물",
+		"slug": "non_potable_water",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🚷",
+		"skin_tone_support": false,
+		"name": "보행자 없음",
+		"slug": "no_pedestrians",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "📵",
+		"skin_tone_support": false,
+		"name": "휴대 전화 없음",
+		"slug": "no_mobile_phones",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🔞",
+		"skin_tone_support": false,
+		"name": "18세 미만은 아무도",
+		"slug": "no_one_under_eighteen",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "☢️",
+		"skin_tone_support": false,
+		"name": "방사성",
+		"slug": "radioactive",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "☣️",
+		"skin_tone_support": false,
+		"name": "생물학적 위험",
+		"slug": "biohazard",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "⬆️",
+		"skin_tone_support": false,
+		"name": "위쪽 화살표",
+		"slug": "up_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "↗️",
+		"skin_tone_support": false,
+		"name": "오른쪽 위 화살표",
+		"slug": "up_right_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "➡️",
+		"skin_tone_support": false,
+		"name": "오른쪽 화살표",
+		"slug": "right_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "↘️",
+		"skin_tone_support": false,
+		"name": "오른쪽 아래 화살표",
+		"slug": "down_right_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⬇️",
+		"skin_tone_support": false,
+		"name": "아래쪽 화살표",
+		"slug": "down_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "↙️",
+		"skin_tone_support": false,
+		"name": "왼쪽 아래 화살표",
+		"slug": "down_left_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⬅️",
+		"skin_tone_support": false,
+		"name": "왼쪽 화살표",
+		"slug": "left_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "↖️",
+		"skin_tone_support": false,
+		"name": "왼쪽 위 화살표",
+		"slug": "up_left_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "↕️",
+		"skin_tone_support": false,
+		"name": "위아래 화살표",
+		"slug": "up_down_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "↔️",
+		"skin_tone_support": false,
+		"name": "좌우 화살표",
+		"slug": "left_right_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "↩️",
+		"skin_tone_support": false,
+		"name": "왼쪽으로 휘는 오른쪽 화살표",
+		"slug": "right_arrow_curving_left",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "↪️",
+		"skin_tone_support": false,
+		"name": "오른쪽으로 휘어진 왼쪽 화살표",
+		"slug": "left_arrow_curving_right",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⤴️",
+		"skin_tone_support": false,
+		"name": "위로 휘어진 오른쪽 화살표",
+		"slug": "right_arrow_curving_up",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⤵️",
+		"skin_tone_support": false,
+		"name": "아래로 휘어진 오른쪽 화살표",
+		"slug": "right_arrow_curving_down",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔃",
+		"skin_tone_support": false,
+		"name": "시계 방향 수직 화살표",
+		"slug": "clockwise_vertical_arrows",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔄",
+		"skin_tone_support": false,
+		"name": "시계 반대 방향 화살표 버튼",
+		"slug": "counterclockwise_arrows_button",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🔙",
+		"skin_tone_support": false,
+		"name": "뒤로 화살표",
+		"slug": "back_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔚",
+		"skin_tone_support": false,
+		"name": "끝 화살표",
+		"slug": "end_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔛",
+		"skin_tone_support": false,
+		"name": "켜짐! 화살",
+		"slug": "on_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔜",
+		"skin_tone_support": false,
+		"name": "순 화살표",
+		"slug": "soon_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔝",
+		"skin_tone_support": false,
+		"name": "위쪽 화살표",
+		"slug": "top_arrow",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛐",
+		"skin_tone_support": false,
+		"name": "예배 장소",
+		"slug": "place_of_worship",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "⚛️",
+		"skin_tone_support": false,
+		"name": "원자 기호",
+		"slug": "atom_symbol",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🕉️",
+		"skin_tone_support": false,
+		"name": "만약",
+		"slug": "om",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "✡️",
+		"skin_tone_support": false,
+		"name": "다윗의 별",
+		"slug": "star_of_david",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "☸️",
+		"skin_tone_support": false,
+		"name": "달마의 바퀴",
+		"slug": "wheel_of_dharma",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "☯️",
+		"skin_tone_support": false,
+		"name": "음양",
+		"slug": "yin_yang",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "✝️",
+		"skin_tone_support": false,
+		"name": "라틴 십자가",
+		"slug": "latin_cross",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "☦️",
+		"skin_tone_support": false,
+		"name": "정통 십자가",
+		"slug": "orthodox_cross",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "☪️",
+		"skin_tone_support": false,
+		"name": "별과 초승달",
+		"slug": "star_and_crescent",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "☮️",
+		"skin_tone_support": false,
+		"name": "평화의 상징",
+		"slug": "peace_symbol",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🕎",
+		"skin_tone_support": false,
+		"name": "메노라",
+		"slug": "menorah",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🔯",
+		"skin_tone_support": false,
+		"name": "점 여섯개 별",
+		"slug": "dotted_six_pointed_star",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♈",
+		"skin_tone_support": false,
+		"name": "양자리",
+		"slug": "aries",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♉",
+		"skin_tone_support": false,
+		"name": "황소자리",
+		"slug": "taurus",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♊",
+		"skin_tone_support": false,
+		"name": "쌍둥이 자리",
+		"slug": "gemini",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♋",
+		"skin_tone_support": false,
+		"name": "암",
+		"slug": "cancer",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♌",
+		"skin_tone_support": false,
+		"name": "사자 별자리",
+		"slug": "leo",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♍",
+		"skin_tone_support": false,
+		"name": "처녀 자리",
+		"slug": "virgo",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♎",
+		"skin_tone_support": false,
+		"name": "서적",
+		"slug": "libra",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♏",
+		"skin_tone_support": false,
+		"name": "천갈궁",
+		"slug": "scorpio",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♐",
+		"skin_tone_support": false,
+		"name": "궁수",
+		"slug": "sagittarius",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♑",
+		"skin_tone_support": false,
+		"name": "염소자리",
+		"slug": "capricorn",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♒",
+		"skin_tone_support": false,
+		"name": "물병자리",
+		"slug": "aquarius",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♓",
+		"skin_tone_support": false,
+		"name": "물고기",
+		"slug": "pisces",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⛎",
+		"skin_tone_support": false,
+		"name": "뱀주인자리",
+		"slug": "ophiuchus",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔀",
+		"skin_tone_support": false,
+		"name": "트랙 셔플 버튼",
+		"slug": "shuffle_tracks_button",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🔁",
+		"skin_tone_support": false,
+		"name": "반복 버튼",
+		"slug": "repeat_button",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🔂",
+		"skin_tone_support": false,
+		"name": "단일 버튼 반복",
+		"slug": "repeat_single_button",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "▶️",
+		"skin_tone_support": false,
+		"name": "재생 버튼",
+		"slug": "play_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏩",
+		"skin_tone_support": false,
+		"name": "빨리 감기 버튼",
+		"slug": "fast_forward_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏭️",
+		"skin_tone_support": false,
+		"name": "다음 트랙 버튼",
+		"slug": "next_track_button",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⏯️",
+		"skin_tone_support": false,
+		"name": "재생 또는 일시 중지 버튼",
+		"slug": "play_or_pause_button",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "◀️",
+		"skin_tone_support": false,
+		"name": "역방향 버튼",
+		"slug": "reverse_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏪",
+		"skin_tone_support": false,
+		"name": "빨리 되감기 버튼",
+		"slug": "fast_reverse_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏮️",
+		"skin_tone_support": false,
+		"name": "마지막 트랙 버튼",
+		"slug": "last_track_button",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🔼",
+		"skin_tone_support": false,
+		"name": "위쪽 버튼",
+		"slug": "upwards_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏫",
+		"skin_tone_support": false,
+		"name": "빨리 가기 버튼",
+		"slug": "fast_up_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔽",
+		"skin_tone_support": false,
+		"name": "아래쪽 버튼",
+		"slug": "downwards_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏬",
+		"skin_tone_support": false,
+		"name": "빨리 내리기 버튼",
+		"slug": "fast_down_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⏸️",
+		"skin_tone_support": false,
+		"name": "일시 정지 버튼",
+		"slug": "pause_button",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⏹️",
+		"skin_tone_support": false,
+		"name": "정지 버튼",
+		"slug": "stop_button",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⏺️",
+		"skin_tone_support": false,
+		"name": "녹음 버튼",
+		"slug": "record_button",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "⏏️",
+		"skin_tone_support": false,
+		"name": "탈출 버튼",
+		"slug": "eject_button",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🎦",
+		"skin_tone_support": false,
+		"name": "영화",
+		"slug": "cinema",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔅",
+		"skin_tone_support": false,
+		"name": "희미한 버튼",
+		"slug": "dim_button",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🔆",
+		"skin_tone_support": false,
+		"name": "밝은 버튼",
+		"slug": "bright_button",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "📶",
+		"skin_tone_support": false,
+		"name": "안테나 바",
+		"slug": "antenna_bars",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "📳",
+		"skin_tone_support": false,
+		"name": "진동 모드",
+		"slug": "vibration_mode",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "📴",
+		"skin_tone_support": false,
+		"name": "휴대폰 꺼짐",
+		"slug": "mobile_phone_off",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♀️",
+		"skin_tone_support": false,
+		"name": "여성 기호",
+		"slug": "female_sign",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "♂️",
+		"skin_tone_support": false,
+		"name": "남성 기호",
+		"slug": "male_sign",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "⚧️",
+		"skin_tone_support": false,
+		"name": "트랜스젠더 상징",
+		"slug": "transgender_symbol",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "✖️",
+		"skin_tone_support": false,
+		"name": "곱하다",
+		"slug": "multiply",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "➕",
+		"skin_tone_support": false,
+		"name": "더",
+		"slug": "plus",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "➖",
+		"skin_tone_support": false,
+		"name": "마이너스",
+		"slug": "minus",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "➗",
+		"skin_tone_support": false,
+		"name": "나누다",
+		"slug": "divide",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♾️",
+		"skin_tone_support": false,
+		"name": "무한대",
+		"slug": "infinity",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "‼️",
+		"skin_tone_support": false,
+		"name": "이중 느낌표",
+		"slug": "double_exclamation_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⁉️",
+		"skin_tone_support": false,
+		"name": "느낌표 물음표",
+		"slug": "exclamation_question_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "❓",
+		"skin_tone_support": false,
+		"name": "빨간 물음표",
+		"slug": "red_question_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "❔",
+		"skin_tone_support": false,
+		"name": "흰색 물음표",
+		"slug": "white_question_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "❕",
+		"skin_tone_support": false,
+		"name": "흰색 느낌표",
+		"slug": "white_exclamation_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "❗",
+		"skin_tone_support": false,
+		"name": "빨간 느낌표",
+		"slug": "red_exclamation_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "〰️",
+		"skin_tone_support": false,
+		"name": "물결 모양 대시",
+		"slug": "wavy_dash",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💱",
+		"skin_tone_support": false,
+		"name": "환전소",
+		"slug": "currency_exchange",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💲",
+		"skin_tone_support": false,
+		"name": "무거운 달러 기호",
+		"slug": "heavy_dollar_sign",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⚕️",
+		"skin_tone_support": false,
+		"name": "의료 기호",
+		"slug": "medical_symbol",
+		"unicode_version": "4.0",
+		"emoji_version": "4.0"
+	},
+	{
+		"emoji": "♻️",
+		"skin_tone_support": false,
+		"name": "재활용 기호",
+		"slug": "recycling_symbol",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⚜️",
+		"skin_tone_support": false,
+		"name": "백합 문양",
+		"slug": "fleur_de_lis",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🔱",
+		"skin_tone_support": false,
+		"name": "삼지창 엠블럼",
+		"slug": "trident_emblem",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "📛",
+		"skin_tone_support": false,
+		"name": "이름 배지",
+		"slug": "name_badge",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔰",
+		"skin_tone_support": false,
+		"name": "초보자를 위한 일본어 기호",
+		"slug": "japanese_symbol_for_beginner",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⭕",
+		"skin_tone_support": false,
+		"name": "속이 빈 빨간 원",
+		"slug": "hollow_red_circle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "✅",
+		"skin_tone_support": false,
+		"name": "확인 표시 버튼",
+		"slug": "check_mark_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "☑️",
+		"skin_tone_support": false,
+		"name": "체크가 있는 체크박스",
+		"slug": "check_box_with_check",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "✔️",
+		"skin_tone_support": false,
+		"name": "체크 표시",
+		"slug": "check_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "❌",
+		"skin_tone_support": false,
+		"name": "십자 표시",
+		"slug": "cross_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "❎",
+		"skin_tone_support": false,
+		"name": "십자 표시 버튼",
+		"slug": "cross_mark_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "➰",
+		"skin_tone_support": false,
+		"name": "곱슬 루프",
+		"slug": "curly_loop",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "➿",
+		"skin_tone_support": false,
+		"name": "이중 곱슬 루프",
+		"slug": "double_curly_loop",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "〽️",
+		"skin_tone_support": false,
+		"name": "부품 대체 표시",
+		"slug": "part_alternation_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "✳️",
+		"skin_tone_support": false,
+		"name": "팔각 별표",
+		"slug": "eight_spoked_asterisk",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "✴️",
+		"skin_tone_support": false,
+		"name": "팔각별",
+		"slug": "eight_pointed_star",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "❇️",
+		"skin_tone_support": false,
+		"name": "불꽃",
+		"slug": "sparkle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "©️",
+		"skin_tone_support": false,
+		"name": "저작권",
+		"slug": "copyright",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "®️",
+		"skin_tone_support": false,
+		"name": "등기",
+		"slug": "registered",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "™️",
+		"skin_tone_support": false,
+		"name": "상표",
+		"slug": "trade_mark",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "#️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 #",
+		"slug": "keycap_",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "*️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 *",
+		"slug": "keycap_",
+		"unicode_version": "2.0",
+		"emoji_version": "2.0"
+	},
+	{
+		"emoji": "0️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 0",
+		"slug": "keycap_0",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "1️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 1",
+		"slug": "keycap_1",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "2️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 2",
+		"slug": "keycap_2",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "3️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 3",
+		"slug": "keycap_3",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "4️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 4",
+		"slug": "keycap_4",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "5️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 5",
+		"slug": "keycap_5",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "6️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 6",
+		"slug": "keycap_6",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "7️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 7",
+		"slug": "keycap_7",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "8️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 8",
+		"slug": "keycap_8",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "9️⃣",
+		"skin_tone_support": false,
+		"name": "키캡 9",
+		"slug": "keycap_9",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔟",
+		"skin_tone_support": false,
+		"name": "키캡 10",
+		"slug": "keycap_10",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔠",
+		"skin_tone_support": false,
+		"name": "라틴 대문자 입력",
+		"slug": "input_latin_uppercase",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔡",
+		"skin_tone_support": false,
+		"name": "라틴 소문자 입력",
+		"slug": "input_latin_lowercase",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔢",
+		"skin_tone_support": false,
+		"name": "숫자 입력",
+		"slug": "input_numbers",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔣",
+		"skin_tone_support": false,
+		"name": "입력 기호",
+		"slug": "input_symbols",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔤",
+		"skin_tone_support": false,
+		"name": "라틴 문자 입력",
+		"slug": "input_latin_letters",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🅰️",
+		"skin_tone_support": false,
+		"name": "A버튼(혈액형)",
+		"slug": "a_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆎",
+		"skin_tone_support": false,
+		"name": "AB 버튼(혈액형)",
+		"slug": "ab_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🅱️",
+		"skin_tone_support": false,
+		"name": "B 버튼(혈액형)",
+		"slug": "b_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆑",
+		"skin_tone_support": false,
+		"name": "CL 버튼",
+		"slug": "cl_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆒",
+		"skin_tone_support": false,
+		"name": "COOL 버튼",
+		"slug": "cool_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆓",
+		"skin_tone_support": false,
+		"name": "무료 버튼",
+		"slug": "free_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "ℹ️",
+		"skin_tone_support": false,
+		"name": "정보",
+		"slug": "information",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆔",
+		"skin_tone_support": false,
+		"name": "아이디 버튼",
+		"slug": "id_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "Ⓜ️",
+		"skin_tone_support": false,
+		"name": "동그라미 M",
+		"slug": "circled_m",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆕",
+		"skin_tone_support": false,
+		"name": "새 버튼",
+		"slug": "new_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆖",
+		"skin_tone_support": false,
+		"name": "NG 버튼",
+		"slug": "ng_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🅾️",
+		"skin_tone_support": false,
+		"name": "O 버튼(혈액형)",
+		"slug": "o_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆗",
+		"skin_tone_support": false,
+		"name": "확인 버튼",
+		"slug": "ok_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🅿️",
+		"skin_tone_support": false,
+		"name": "P 버튼",
+		"slug": "p_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆘",
+		"skin_tone_support": false,
+		"name": "SOS 버튼",
+		"slug": "sos_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆙",
+		"skin_tone_support": false,
+		"name": "위로! 단추",
+		"slug": "up_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🆚",
+		"skin_tone_support": false,
+		"name": "VS 버튼",
+		"slug": "vs_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈁",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;여기&quot; 버튼",
+		"slug": "japanese_here_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈂️",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;서비스 요금&quot; 버튼",
+		"slug": "japanese_service_charge_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈷️",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;월별 금액&quot; 버튼",
+		"slug": "japanese_monthly_amount_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈶",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;무료가 아님&quot; 버튼",
+		"slug": "japanese_not_free_of_charge_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈯",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;예약&quot; 버튼",
+		"slug": "japanese_reserved_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🉐",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;바겐세일&quot; 버튼",
+		"slug": "japanese_bargain_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈹",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;할인&quot; 버튼",
+		"slug": "japanese_discount_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈚",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;무료&quot; 버튼",
+		"slug": "japanese_free_of_charge_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈲",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;금지&quot; 버튼",
+		"slug": "japanese_prohibited_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🉑",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;허용&quot; 버튼",
+		"slug": "japanese_acceptable_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈸",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;신청&quot; 버튼",
+		"slug": "japanese_application_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈴",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;합격&quot; 버튼",
+		"slug": "japanese_passing_grade_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈳",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;공석&quot; 버튼",
+		"slug": "japanese_vacancy_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "㊗️",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;축하합니다&quot; 버튼",
+		"slug": "japanese_congratulations_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "㊙️",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;비밀&quot; 버튼",
+		"slug": "japanese_secret_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈺",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;개방&quot; 버튼",
+		"slug": "japanese_open_for_business_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🈵",
+		"skin_tone_support": false,
+		"name": "일본어 &quot;공백 없음&quot; 버튼",
+		"slug": "japanese_no_vacancy_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔴",
+		"skin_tone_support": false,
+		"name": "빨간 원",
+		"slug": "red_circle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🟠",
+		"skin_tone_support": false,
+		"name": "주황색 원",
+		"slug": "orange_circle",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🟡",
+		"skin_tone_support": false,
+		"name": "노란색 원",
+		"slug": "yellow_circle",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🟢",
+		"skin_tone_support": false,
+		"name": "녹색 원",
+		"slug": "green_circle",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🔵",
+		"skin_tone_support": false,
+		"name": "파란색 원",
+		"slug": "blue_circle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🟣",
+		"skin_tone_support": false,
+		"name": "보라색 원",
+		"slug": "purple_circle",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🟤",
+		"skin_tone_support": false,
+		"name": "갈색 원",
+		"slug": "brown_circle",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "⚫",
+		"skin_tone_support": false,
+		"name": "검은 동그라미",
+		"slug": "black_circle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⚪",
+		"skin_tone_support": false,
+		"name": "흰색 원",
+		"slug": "white_circle",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🟥",
+		"skin_tone_support": false,
+		"name": "붉은 광장",
+		"slug": "red_square",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🟧",
+		"skin_tone_support": false,
+		"name": "주황색 광장",
+		"slug": "orange_square",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🟨",
+		"skin_tone_support": false,
+		"name": "노란색 사각형",
+		"slug": "yellow_square",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🟩",
+		"skin_tone_support": false,
+		"name": "녹색 광장",
+		"slug": "green_square",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🟦",
+		"skin_tone_support": false,
+		"name": "파란색 사각형",
+		"slug": "blue_square",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🟪",
+		"skin_tone_support": false,
+		"name": "보라색 사각형",
+		"slug": "purple_square",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🟫",
+		"skin_tone_support": false,
+		"name": "갈색 사각형",
+		"slug": "brown_square",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "⬛",
+		"skin_tone_support": false,
+		"name": "검은색 큰 사각형",
+		"slug": "black_large_square",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⬜",
+		"skin_tone_support": false,
+		"name": "흰색 큰 사각형",
+		"slug": "white_large_square",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "◼️",
+		"skin_tone_support": false,
+		"name": "검은색 중간 사각형",
+		"slug": "black_medium_square",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "◻️",
+		"skin_tone_support": false,
+		"name": "흰색 중간 사각형",
+		"slug": "white_medium_square",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "◾",
+		"skin_tone_support": false,
+		"name": "검은색 중소형 사각형",
+		"slug": "black_medium_small_square",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "◽",
+		"skin_tone_support": false,
+		"name": "흰색 중소 정사각형",
+		"slug": "white_medium_small_square",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "▪️",
+		"skin_tone_support": false,
+		"name": "검은색 작은 사각형",
+		"slug": "black_small_square",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "▫️",
+		"skin_tone_support": false,
+		"name": "흰색 작은 사각형",
+		"slug": "white_small_square",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔶",
+		"skin_tone_support": false,
+		"name": "큰 오렌지 다이아몬드",
+		"slug": "large_orange_diamond",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔷",
+		"skin_tone_support": false,
+		"name": "큰 블루 다이아몬드",
+		"slug": "large_blue_diamond",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔸",
+		"skin_tone_support": false,
+		"name": "작은 오렌지 다이아몬드",
+		"slug": "small_orange_diamond",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔹",
+		"skin_tone_support": false,
+		"name": "작은 블루 다이아몬드",
+		"slug": "small_blue_diamond",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔺",
+		"skin_tone_support": false,
+		"name": "빨간 삼각형이 가리키는",
+		"slug": "red_triangle_pointed_up",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔻",
+		"skin_tone_support": false,
+		"name": "아래를 가리키는 빨간색 삼각형",
+		"slug": "red_triangle_pointed_down",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "💠",
+		"skin_tone_support": false,
+		"name": "점이 있는 다이아몬드",
+		"slug": "diamond_with_a_dot",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔘",
+		"skin_tone_support": false,
+		"name": "라디오 버튼",
+		"slug": "radio_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔳",
+		"skin_tone_support": false,
+		"name": "흰색 사각형 버튼",
+		"slug": "white_square_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔲",
+		"skin_tone_support": false,
+		"name": "검은색 사각형 버튼",
+		"slug": "black_square_button",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	}
+]

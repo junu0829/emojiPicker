@@ -1,0 +1,674 @@
+[
+	{
+		"emoji": "🎃",
+		"skin_tone_support": false,
+		"name": "잭 오 랜턴",
+		"slug": "jack_o_lantern",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎄",
+		"skin_tone_support": false,
+		"name": "크리스마스 트리",
+		"slug": "christmas_tree",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎆",
+		"skin_tone_support": false,
+		"name": "불꽃",
+		"slug": "fireworks",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎇",
+		"skin_tone_support": false,
+		"name": "빛나는 것",
+		"slug": "sparkler",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧨",
+		"skin_tone_support": false,
+		"name": "폭죽",
+		"slug": "firecracker",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "✨",
+		"skin_tone_support": false,
+		"name": "반짝임",
+		"slug": "sparkles",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎈",
+		"skin_tone_support": false,
+		"name": "풍선",
+		"slug": "balloon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎉",
+		"skin_tone_support": false,
+		"name": "파티 포퍼",
+		"slug": "party_popper",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎊",
+		"skin_tone_support": false,
+		"name": "색종이 공",
+		"slug": "confetti_ball",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎋",
+		"skin_tone_support": false,
+		"name": "tanabata tree",
+		"slug": "tanabata_tree",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎍",
+		"skin_tone_support": false,
+		"name": "소나무 장식",
+		"slug": "pine_decoration",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎎",
+		"skin_tone_support": false,
+		"name": "일본 인형",
+		"slug": "japanese_dolls",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎏",
+		"skin_tone_support": false,
+		"name": "잉어 깃발",
+		"slug": "carp_streamer",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎐",
+		"skin_tone_support": false,
+		"name": "바람 차임",
+		"slug": "wind_chime",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎑",
+		"skin_tone_support": false,
+		"name": "달맞이 행사",
+		"slug": "moon_viewing_ceremony",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧧",
+		"skin_tone_support": false,
+		"name": "빨간 봉투",
+		"slug": "red_envelope",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🎀",
+		"skin_tone_support": false,
+		"name": "리본",
+		"slug": "ribbon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎁",
+		"skin_tone_support": false,
+		"name": "포장된 선물",
+		"slug": "wrapped_gift",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎗️",
+		"skin_tone_support": false,
+		"name": "알림 리본",
+		"slug": "reminder_ribbon",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🎟️",
+		"skin_tone_support": false,
+		"name": "입장권",
+		"slug": "admission_tickets",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🎫",
+		"skin_tone_support": false,
+		"name": "티켓",
+		"slug": "ticket",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎖️",
+		"skin_tone_support": false,
+		"name": "군사 메달",
+		"slug": "military_medal",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🏆",
+		"skin_tone_support": false,
+		"name": "트로피",
+		"slug": "trophy",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏅",
+		"skin_tone_support": false,
+		"name": "스포츠 메달",
+		"slug": "sports_medal",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🥇",
+		"skin_tone_support": false,
+		"name": "1위 메달",
+		"slug": "1st_place_medal",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🥈",
+		"skin_tone_support": false,
+		"name": "2위 메달",
+		"slug": "2nd_place_medal",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🥉",
+		"skin_tone_support": false,
+		"name": "3위 메달",
+		"slug": "3rd_place_medal",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "⚽",
+		"skin_tone_support": false,
+		"name": "축구 공",
+		"slug": "soccer_ball",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⚾",
+		"skin_tone_support": false,
+		"name": "야구",
+		"slug": "baseball",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥎",
+		"skin_tone_support": false,
+		"name": "소프트볼",
+		"slug": "softball",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🏀",
+		"skin_tone_support": false,
+		"name": "농구",
+		"slug": "basketball",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏐",
+		"skin_tone_support": false,
+		"name": "배구",
+		"slug": "volleyball",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🏈",
+		"skin_tone_support": false,
+		"name": "미식 축구",
+		"slug": "american_football",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏉",
+		"skin_tone_support": false,
+		"name": "럭비 축구",
+		"slug": "rugby_football",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🎾",
+		"skin_tone_support": false,
+		"name": "테니스",
+		"slug": "tennis",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🥏",
+		"skin_tone_support": false,
+		"name": "플라잉 디스크",
+		"slug": "flying_disc",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🎳",
+		"skin_tone_support": false,
+		"name": "볼링",
+		"slug": "bowling",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🏏",
+		"skin_tone_support": false,
+		"name": "크리켓 게임",
+		"slug": "cricket_game",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🏑",
+		"skin_tone_support": false,
+		"name": "필드 하키",
+		"slug": "field_hockey",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🏒",
+		"skin_tone_support": false,
+		"name": "아이스 하키",
+		"slug": "ice_hockey",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🥍",
+		"skin_tone_support": false,
+		"name": "라크로스",
+		"slug": "lacrosse",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🏓",
+		"skin_tone_support": false,
+		"name": "탁구",
+		"slug": "ping_pong",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🏸",
+		"skin_tone_support": false,
+		"name": "배드민턴",
+		"slug": "badminton",
+		"unicode_version": "1.0",
+		"emoji_version": "1.0"
+	},
+	{
+		"emoji": "🥊",
+		"skin_tone_support": false,
+		"name": "권투 글러브",
+		"slug": "boxing_glove",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🥋",
+		"skin_tone_support": false,
+		"name": "무술 제복",
+		"slug": "martial_arts_uniform",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "🥅",
+		"skin_tone_support": false,
+		"name": "골 네트",
+		"slug": "goal_net",
+		"unicode_version": "3.0",
+		"emoji_version": "3.0"
+	},
+	{
+		"emoji": "⛳",
+		"skin_tone_support": false,
+		"name": "구멍에 깃발",
+		"slug": "flag_in_hole",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "⛸️",
+		"skin_tone_support": false,
+		"name": "아이스 스케이트",
+		"slug": "ice_skate",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🎣",
+		"skin_tone_support": false,
+		"name": "낚시대",
+		"slug": "fishing_pole",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🤿",
+		"skin_tone_support": false,
+		"name": "다이빙 마스크",
+		"slug": "diving_mask",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🎽",
+		"skin_tone_support": false,
+		"name": "런닝 셔츠",
+		"slug": "running_shirt",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎿",
+		"skin_tone_support": false,
+		"name": "스키",
+		"slug": "skis",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🛷",
+		"skin_tone_support": false,
+		"name": "다음",
+		"slug": "sled",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🥌",
+		"skin_tone_support": false,
+		"name": "컬링 스톤",
+		"slug": "curling_stone",
+		"unicode_version": "5.0",
+		"emoji_version": "5.0"
+	},
+	{
+		"emoji": "🎯",
+		"skin_tone_support": false,
+		"name": "황소의 눈",
+		"slug": "bullseye",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🪀",
+		"skin_tone_support": false,
+		"name": "요요",
+		"slug": "yo_yo",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🪁",
+		"skin_tone_support": false,
+		"name": "연",
+		"slug": "kite",
+		"unicode_version": "12.0",
+		"emoji_version": "12.0"
+	},
+	{
+		"emoji": "🎱",
+		"skin_tone_support": false,
+		"name": "풀 8 볼",
+		"slug": "pool_8_ball",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🔮",
+		"skin_tone_support": false,
+		"name": "수정 구슬",
+		"slug": "crystal_ball",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🪄",
+		"skin_tone_support": false,
+		"name": "마법의 지팡이",
+		"slug": "magic_wand",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🧿",
+		"skin_tone_support": false,
+		"name": "나자르 부적",
+		"slug": "nazar_amulet",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🎮",
+		"skin_tone_support": false,
+		"name": "비디오 게임",
+		"slug": "video_game",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🕹️",
+		"skin_tone_support": false,
+		"name": "조종간",
+		"slug": "joystick",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🎰",
+		"skin_tone_support": false,
+		"name": "슬롯 머신",
+		"slug": "slot_machine",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎲",
+		"skin_tone_support": false,
+		"name": "게임 다이",
+		"slug": "game_die",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧩",
+		"skin_tone_support": false,
+		"name": "퍼즐 조각",
+		"slug": "puzzle_piece",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🧸",
+		"skin_tone_support": false,
+		"name": "테디 베어",
+		"slug": "teddy_bear",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🪅",
+		"skin_tone_support": false,
+		"name": "피나타",
+		"slug": "pinata",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🪆",
+		"skin_tone_support": false,
+		"name": "중첩 인형",
+		"slug": "nesting_dolls",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "♠️",
+		"skin_tone_support": false,
+		"name": "스페이드 슈트",
+		"slug": "spade_suit",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♥️",
+		"skin_tone_support": false,
+		"name": "하트 슈트",
+		"slug": "heart_suit",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♦️",
+		"skin_tone_support": false,
+		"name": "다이아몬드 슈트",
+		"slug": "diamond_suit",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♣️",
+		"skin_tone_support": false,
+		"name": "클럽 슈트",
+		"slug": "club_suit",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "♟️",
+		"skin_tone_support": false,
+		"name": "체스 폰",
+		"slug": "chess_pawn",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🃏",
+		"skin_tone_support": false,
+		"name": "조커",
+		"slug": "joker",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🀄",
+		"skin_tone_support": false,
+		"name": "마작 레드 드래곤",
+		"slug": "mahjong_red_dragon",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎴",
+		"skin_tone_support": false,
+		"name": "꽃 놀이 카드",
+		"slug": "flower_playing_cards",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🎭",
+		"skin_tone_support": false,
+		"name": "공연 예술",
+		"slug": "performing_arts",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🖼️",
+		"skin_tone_support": false,
+		"name": "액자 사진",
+		"slug": "framed_picture",
+		"unicode_version": "0.7",
+		"emoji_version": "0.7"
+	},
+	{
+		"emoji": "🎨",
+		"skin_tone_support": false,
+		"name": "아티스트 팔레트",
+		"slug": "artist_palette",
+		"unicode_version": "0.6",
+		"emoji_version": "0.6"
+	},
+	{
+		"emoji": "🧵",
+		"skin_tone_support": false,
+		"name": "실",
+		"slug": "thread",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🪡",
+		"skin_tone_support": false,
+		"name": "재봉 바늘",
+		"slug": "sewing_needle",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	},
+	{
+		"emoji": "🧶",
+		"skin_tone_support": false,
+		"name": "실",
+		"slug": "yarn",
+		"unicode_version": "11.0",
+		"emoji_version": "11.0"
+	},
+	{
+		"emoji": "🪢",
+		"skin_tone_support": false,
+		"name": "매듭",
+		"slug": "knot",
+		"unicode_version": "13.0",
+		"emoji_version": "13.0"
+	}
+]
