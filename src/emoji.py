@@ -1,8 +1,6 @@
+#here you can translate original json file. befrore that, make sure you get google credential following https://cloud.google.com/translate/docs/setup
+
 import os 
-
-
-
-
 import json
 from google.cloud import translate_v2 as translate
 credential_path ="C:/Users/wnsn0/Documents/boreal-album-340112-defd948aaca6.json"
