@@ -5,28 +5,41 @@ import {
   StyleSheet,
   TouchableOpacity,
   SafeAreaView,
-  ScrollView,
   FlatList,
   TextInput,
 } from "react-native";
-import emojiss from "./src/emoji.json";
+import emojiss from "./src/data.json";
 
+const styles = StyleSheet.create({
+  item: {
+    width: 45,
+    height: 45,
+  },
+  emoji: {
+    fontSize: 38,
+  },
+});
 export default function App() {
   const [searchfield, setSearchfield] = useState("");
+  const [selectedEmoji, setSelectedEmoji] = useState("");
 
-  const [emojis, setEmojis] = useState(emojiss["스마일리 & 감정"]);
+  const [emojis, setEmojis] = useState(emojiss);
 
   useEffect(() => {
-    const filteredEmojis = emojiss["스마일리 & 감정"].filter((emoji) => {
+    const filteredEmojis = emojiss["EmojiKorean"].filter((emoji) => {
       return emoji.name.toString().includes(searchfield);
     });
     setEmojis(filteredEmojis);
     console.log(searchfield.toString());
-    console.log(emojis);
   }, [searchfield]);
 
   const Item = ({ emoji }) => (
-    <TouchableOpacity>
+    <TouchableOpacity
+      onPress={async () => {
+        await setSelectedEmoji(emoji);
+        console.log(selectedEmoji);
+      }}
+    >
       <View style={styles.item}>
         <Text style={styles.emoji}>{emoji}</Text>
       </View>
@@ -56,13 +69,3 @@ export default function App() {
     </SafeAreaView>
   );
 }
-
-const styles = StyleSheet.create({
-  item: {
-    width: 45,
-    height: 45,
-  },
-  emoji: {
-    fontSize: 38,
-  },
-});
